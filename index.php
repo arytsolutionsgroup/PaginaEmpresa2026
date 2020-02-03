@@ -277,7 +277,7 @@
 							<img src="images/port4-compnetworks.jpeg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>REDES DE COMPUTACION</h2>
-								<p>Branding, Design</p>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-4">View more</a>
 							</figcaption>
 						</figure>
@@ -291,7 +291,7 @@
 							<img src="images/port5-electroseg.jpeg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>SEGURIDAD ELECTRONICA</h2>
-								<p>Branding, Web Design</p>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-5">View more</a>
 							</figcaption>
 						</figure>
@@ -305,7 +305,7 @@
 							<img src="images/port6-infsecurity.jpeg" alt="Informatics Security" class="img-responsive" />
 							<figcaption>
 								<h2>SEGURIDAD INFORMATICA</h2>
-								<p>Branding, Web Design</p>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-2">View more</a>
 							</figcaption>
 						</figure>
@@ -322,7 +322,7 @@
 							<img src="images/port7-domotics-iot.jpg" alt="Domotics and IoT technologies" class="img-responsive" />
 							<figcaption>
 								<h2>DOMOTICA E INTERNET DE LAS COSAS</h2>
-								<p>Branding, Design</p>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-4">View more</a>
 							</figcaption>
 						</figure>
@@ -335,8 +335,9 @@
 						<figure class="effect-bubba">
 							<img src="images/port8-electric.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
-								<h2>INSTALACIONES ELECTRICAS DOMESTICAS E INDUSTRIALES
-								<p>Branding, Web Design</p>
+								<h2>INSTALACIONES ELECTRICAS <br>
+									DOMESTICAS E INDUSTRIALES</h2>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-5">View more</a>
 							</figcaption>
 						</figure>
@@ -350,7 +351,7 @@
 							<img src="images/port9-cloud.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>WEB & SERVER HOSTING</h2>
-								<p>Branding, Web Design</p>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-2">View more</a>
 							</figcaption>
 						</figure>
