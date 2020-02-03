@@ -37,7 +37,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand page-scroll" href="#page-top"><img src="images/icon3.png" alt="Argos Technology Solutions"></a>
+					<a class="navbar-brand page-scroll" href="#page-top"><img src="images/icon3.png" alt="ARYT Technology Solutions"></a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -533,7 +533,7 @@
 					</div>
 					<div class="col-md-3">
 						<h3>Horarios de Atención</h3>
-						<p><i class="fa fa-clock-o"></i> <span class="day">Lunes a Viernes:</span><span>8am a 8pm</span></p>
+						<p><i class="fa fa-clock-o"></i> <span class="day">Lunes a Viernes: </span><span>8am a 8pm</span></p>
 						<p><i class="fa fa-clock-o"></i> <span class="day">Sabado:</span><span>9am a 2pm</span></p>
 						<p><i class="fa fa-clock-o"></i> <span class="day">Domingo:</span><span>Cerrado</span></p>
 					</div>
