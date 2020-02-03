@@ -593,7 +593,7 @@
 					</div>
 					<div class="modal-body">
 						<img src="images/port1-webdesign.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Pagina WEB a medida</span><span>Conectividad con Email y bases de Datos</span></div>
+						<div class="modal-works2"><span>Pagina WEB a medida</span><span>Conectividad con Email y bases de Datos</span></div>
 						<p>WEB Hosting: Almacene su pagina WEB con Excelentes tiempos de respuesta y sin perdida de informacion </p>
 						<p>Email Servers: Maneje un sistema de email personalizado mas eficiente y seguro</p>
 						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
