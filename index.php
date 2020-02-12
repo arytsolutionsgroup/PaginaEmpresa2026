@@ -595,10 +595,10 @@
 						<img src="images/port1-webdesign.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Pagina WEB a medida</span><span>Conectividad con Email y bases de Datos</span></div>
 						<p>WEB Hosting: Almacene su pagina WEB con Excelentes tiempos de respuesta y sin perdida de informacion </p>
-						<p>Email Servers: Maneje un sistema de email personalizado mas eficiente y seguro</p>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
+						<p>E-mail Servers: Maneje un sistema de email personalizado para su organización</p>
+						<p>Java Script, HMLT 5 y CSS 3: Sus paginas WEB hechas a medida con lo ultimo del estado del arte en desarrollo WEB</p>
+						<p>PHP, Java, ASP.NET: Dele a su pagina WEB Mas potencia utilizando desarrollo back end</p>
+						<p>SQL y No SQL: Su sitio WEB con conectividad con sus datos.</p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
