@@ -37,7 +37,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand page-scroll" href="#page-top"><img src="images/icon3.png" alt="ARYT Technology Solutions"></a>
+					<a class="navbar-brand page-scroll" href="#page-top"><img src="images/icon3.png" alt="Argus Technology Solutions"></a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -277,7 +277,7 @@
 							<img src="images/port4-compnetworks.jpeg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>REDES DE COMPUTACION</h2>
-								<p>Conoce mas</p>
+								<p>Branding, Design</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-4">View more</a>
 							</figcaption>
 						</figure>
@@ -291,7 +291,7 @@
 							<img src="images/port5-electroseg.jpeg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>SEGURIDAD ELECTRONICA</h2>
-								<p>Conoce mas</p>
+								<p>Branding, Web Design</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-5">View more</a>
 							</figcaption>
 						</figure>
@@ -305,7 +305,7 @@
 							<img src="images/port6-infsecurity.jpeg" alt="Informatics Security" class="img-responsive" />
 							<figcaption>
 								<h2>SEGURIDAD INFORMATICA</h2>
-								<p>Conoce mas</p>
+								<p>Branding, Web Design</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-2">View more</a>
 							</figcaption>
 						</figure>
@@ -322,7 +322,7 @@
 							<img src="images/port7-domotics-iot.jpg" alt="Domotics and IoT technologies" class="img-responsive" />
 							<figcaption>
 								<h2>DOMOTICA E INTERNET DE LAS COSAS</h2>
-								<p>Conoce mas</p>
+								<p>Branding, Design</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-4">View more</a>
 							</figcaption>
 						</figure>
@@ -335,9 +335,8 @@
 						<figure class="effect-bubba">
 							<img src="images/port8-electric.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
-								<h2>INSTALACIONES ELECTRICAS <br>
-									DOMESTICAS E INDUSTRIALES</h2>
-								<p>Conoce mas</p>
+								<h2>INSTALACIONES ELECTRICAS DOMESTICAS E INDUSTRIALES
+								<p>Branding, Web Design</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-5">View more</a>
 							</figcaption>
 						</figure>
@@ -351,7 +350,7 @@
 							<img src="images/port9-cloud.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>WEB & SERVER HOSTING</h2>
-								<p>Conoce mas</p>
+								<p>Branding, Web Design</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-2">View more</a>
 							</figcaption>
 						</figure>
@@ -534,7 +533,7 @@
 					</div>
 					<div class="col-md-3">
 						<h3>Horarios de Atención</h3>
-						<p><i class="fa fa-clock-o"></i> <span class="day">Lunes a Viernes: </span><span>8am a 8pm</span></p>
+						<p><i class="fa fa-clock-o"></i> <span class="day">Lunes a Viernes:</span><span>8am a 8pm</span></p>
 						<p><i class="fa fa-clock-o"></i> <span class="day">Sabado:</span><span>9am a 2pm</span></p>
 						<p><i class="fa fa-clock-o"></i> <span class="day">Domingo:</span><span>Cerrado</span></p>
 					</div>
@@ -593,12 +592,11 @@
 					</div>
 					<div class="modal-body">
 						<img src="images/port1-webdesign.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Pagina WEB a medida</span><span>Conectividad con Email y bases de Datos</span></div>
-						<p>WEB Hosting: Almacene su pagina WEB con Excelentes tiempos de respuesta y sin perdida de informacion </p>
-						<p>E-mail Servers: Maneje un sistema de email personalizado para su organización</p>
-						<p>Java Script, HMLT 5 y CSS 3: Sus paginas WEB hechas a medida con lo ultimo del estado del arte en desarrollo WEB</p>
-						<p>PHP, Java, ASP.NET: Dele a su pagina WEB Mas potencia utilizando desarrollo back end</p>
-						<p>SQL y No SQL: Su sitio WEB con conectividad con sus datos.</p>
+						<div class="modal-works"><span>Pagina WEB a medida</span></div>
+						<p>Diseño de paginas WEB a medida para su negocio u organizacion.</p>
+						<p>Esquema multiplataforma para que su pagina llegue a mas personas.</p>
+						<p>Paginas completamente interactivas, rapidas y eficaces.</p>
+						<p>Paginas completamente interactivas, rapidas y eficaces.</p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -613,12 +611,12 @@
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-2">Startup Framework</h4>
+						<h4 class="modal-title" id="Modal-label-2">DESARROLLO DE APP´S MOVILES</h4>
 					</div>
 					<div class="modal-body">
 						<img src="images/demo/portfolio-2.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
+						<div class="modal-works"><span>Android</span><span>IOS</span></div>
+						<p>Applicaciones Efect</p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
