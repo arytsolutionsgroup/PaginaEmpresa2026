@@ -335,7 +335,7 @@
 						<figure class="effect-bubba">
 							<img src="images/port8-electric.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
-								<h2>INSTALACIONES ELECTRICAS DOMESTICAS E INDUSTRIALES
+								<h2>INSTALACIONES ELECTRICAS</h2>
 								<p>Branding, Web Design</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-5">View more</a>
 							</figcaption>
@@ -616,8 +616,9 @@
 					<div class="modal-body">
 						<img src="images/demo/portfolio-2.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Android</span><span>IOS</span></div>
-						<p>Lleve su negocio u organizacion a mas personas con las app´s moviles </p>
-						<p> </p>
+						<p>Lleve su negocio u organizacion a mas personas con las App´s moviles.</p>
+						<p>Aplicaciones multiproposito, elegantes y efectivas.</p>
+						<p></p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
