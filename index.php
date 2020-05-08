@@ -578,7 +578,7 @@
 		</p>
 		<footer>
 			<div class="container text-center">
-				<p> <a href="http://ArgosTS.com">Argos Technology Solutions</a></p>
+				<p> <a href="http://ArgosTS.com">Argus Technology Solutions</a></p>
 			</div>
 		</footer>
 
@@ -595,7 +595,7 @@
 						<div class="modal-works"><span>Pagina WEB a medida</span></div>
 						<p>Diseño de paginas WEB a medida para su negocio u organizacion.</p>
 						<p>Esquema multiplataforma para que su pagina llegue a mas personas.</p>
-						<p>Paginas completamente interactivas, rapidas y eficaces.</p>
+						<p>Paginas completamente interactivas, seguras, rapidas y eficaces.</p>
 						<p>Paginas completamente interactivas, rapidas y eficaces.</p>
 					</div>
 					<div class="modal-footer">
@@ -616,7 +616,8 @@
 					<div class="modal-body">
 						<img src="images/demo/portfolio-2.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Android</span><span>IOS</span></div>
-						<p>Applicaciones Efect</p>
+						<p>Lleve su negocio u organizacion a mas personas con las app´s moviles </p>
+						<p> </p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
