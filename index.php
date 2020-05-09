@@ -617,7 +617,7 @@
 						<h4 class="modal-title" id="Modal-label-2">DESARROLLO DE APP´S MOVILES</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/demo/portfolio-2.jpg" alt="img01" class="img-responsive" />
+						<img src="images/port2-mobile.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Android</span><span>IOS</span></div>
 						<p>Lleve su negocio u organizacion a mas personas con las App´s moviles.</p>
 						<p>Aplicaciones multiproposito, elegantes y efectivas.</p>						
@@ -638,7 +638,7 @@
 						<h4 class="modal-title" id="Modal-label-3">DESARROLLO DE SOFTWARE</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/demo/portfolio-3.jpg" alt="img01" class="img-responsive" />
+						<img src="images/port3-softdevel.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Windows</span><span>Linux</span><span>IOS</span></div>
 						<p>Software de calidad</p>
 						<p>Soporte a los productos</p>
