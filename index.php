@@ -277,7 +277,7 @@
 							<img src="images/port4-compnetworks.jpeg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>REDES DE COMPUTACION</h2>
-								<p>Branding, Design</p>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-4">View more</a>
 							</figcaption>
 						</figure>
@@ -291,7 +291,7 @@
 							<img src="images/port5-electroseg.jpeg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>SEGURIDAD ELECTRONICA</h2>
-								<p>Branding, Web Design</p>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-5">View more</a>
 							</figcaption>
 						</figure>
@@ -305,7 +305,7 @@
 							<img src="images/port6-infsecurity.jpeg" alt="Informatics Security" class="img-responsive" />
 							<figcaption>
 								<h2>SEGURIDAD INFORMATICA</h2>
-								<p>Branding, Web Design</p>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-6">View more</a>
 							</figcaption>
 						</figure>
@@ -322,7 +322,7 @@
 							<img src="images/port7-domotics-iot.jpg" alt="Domotics and IoT technologies" class="img-responsive" />
 							<figcaption>
 								<h2>DOMOTICA E INTERNET DE LAS COSAS</h2>
-								<p>Branding, Design</p>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-7">View more</a>
 							</figcaption>
 						</figure>
@@ -336,7 +336,7 @@
 							<img src="images/port8-electric.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>INSTALACIONES ELECTRICAS</h2>
-								<p>Branding, Web Design</p>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-8">View more</a>
 							</figcaption>
 						</figure>
@@ -350,7 +350,7 @@
 							<img src="images/port9-cloud.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>WEB & SERVER HOSTING</h2>
-								<p>Branding, Web Design</p>
+								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-9">View more</a>
 							</figcaption>
 						</figure>
@@ -591,12 +591,14 @@
 						<h4 class="modal-title" id="Modal-label-1">Diseño WEB</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/port1-webdesign.jpg" alt="img01" class="img-responsive" />
+						<img src="images/port1-webdesign.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Pagina WEB a medida</span></div>
 						<p>Diseño de paginas WEB a medida para su negocio u organizacion.</p>
 						<p>Esquema multiplataforma para que su pagina llegue a mas personas.</p>
 						<p>Paginas completamente interactivas, seguras, rapidas y eficaces.</p>
 						<p>Paginas completamente interactivas, rapidas y eficaces.</p>
+						<button type="submit" name="sendmail" class="btn">Send Message</button>
+						
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>		
