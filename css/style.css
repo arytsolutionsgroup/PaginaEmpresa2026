@@ -1,29 +1,29 @@
 /*------------------------------------------------------------------
-[Master Stylesheet]
+#Master SS#
 
-Project:	Lattes - One page multi purpose page
-Version:	1.0
-Last change:	17/08/2015 [...]
-Designed by:	MOOZ Themes / www.MOOZthemes.com
-Primary use:	One page
+Project Name:	   ARYT Main WEB
+Actual Version:	   6.0
+Last modified:	   9/05/2020
+Modified by:	   Argus Technology Solutions
+Use:	           WEB Page
 
-[Table of contents]
+#Contents#
 
-1. General
-2. Header
-3. Navigation
-4. Sections
-5. Footer
-6. Components
+0. General
+1. Header
+2. Navigation
+3. Sections
+4. Footer
+5. Components
 
-[Color codes]
+#Color codes#
 
 Buttons, etc:	#726FB9 (blue)
 hover color:	#fed136 (yellow)
 -------------------------------------------------------------------*/
 
 /*--------------------
-Import Google Fonts
+Google Fonts Imports
 --------------------*/
 
 /* main font for menu. */
@@ -33,7 +33,7 @@ Import Google Fonts
 @import url(http://fonts.googleapis.com/css?family=Playfair+Display:400italic&subset=latin,latin-ext);
 
 /*--------------------
-1. General
+0. General
 --------------------*/
 
 body {
@@ -340,7 +340,7 @@ margin: 0;
 }
 
 /*--------------------
-4.3. Portfolio
+4.C. Sección de Portafolio
 --------------------*/
 
 figure {
@@ -456,7 +456,7 @@ figure.effect-bubba:hover p {
 }
 
 /*--------------------
-4.4. Dark Short section (counters, quote, etc)
+4.4. Secciones Oscuras
 --------------------*/
 
 .dark-bg {
