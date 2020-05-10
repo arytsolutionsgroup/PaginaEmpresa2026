@@ -248,7 +248,7 @@
 							<figcaption>
 								<h2>DESAROLLO DE SOFTWARE</h2>
 								<p>Conoce mas</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-2">View more</a>
+								<a href="#" data-toggle="modal" data-target="#Modal-2">Ver mas</a>
 							</figcaption>
 						</figure>
 					</div>
@@ -262,7 +262,7 @@
 							<figcaption>
 								<h2>Consultoria en IT</h2>
 								<p>Conoce mas</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-3">View more</a>
+								<a href="#" data-toggle="modal" data-target="#Modal-3">Ver mas</a>
 							</figcaption>
 						</figure>
 					</div>
@@ -276,9 +276,9 @@
 						<figure class="effect-bubba">
 							<img src="images/port4-compnetworks.jpeg" alt="img02" class="img-responsive" />
 							<figcaption>
-								<h2>REDES DE COMPUTACION</h2>
+								<h2>REDES DE COMPUTACIÓN</h2>
 								<p>Conoce mas</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-4">View more</a>
+								<a href="#" data-toggle="modal" data-target="#Modal-4">Ver mas</a>
 							</figcaption>
 						</figure>
 					</div>
@@ -292,7 +292,7 @@
 							<figcaption>
 								<h2>DOMOTICA E INTERNET DE LAS COSAS</h2>
 								<p>Conoce mas</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-6">View more</a>
+								<a href="#" data-toggle="modal" data-target="#Modal-6">Ver mas</a>
 							</figcaption>
 						</figure>
 					</div>
@@ -306,7 +306,7 @@
 							<figcaption>
 								<h2>SEGURIDAD ELECTRONICA</h2>
 								<p>Conoce mas</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-5">View more</a>
+								<a href="#" data-toggle="modal" data-target="#Modal-5">Ver mas</a>
 							</figcaption>
 						</figure>
 					</div>
