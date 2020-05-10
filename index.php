@@ -642,7 +642,7 @@
 					</div>
 					<div class="modal-body">
 						<img src="images/demo/portfolio-5.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Alarmas de Intrusion</span><span>Alarmas Contraincendios</span></div>
+						<div class="modal-works"><span>Alarmas</span><span>Control de Acceso</span></div>
 						<p>Diseño de instalaciones para seguridad electronica:</p>
 						<p>Alarmas de Intrusion.</p>
 						<p>Alarmas Contra Incendios </p>
@@ -663,11 +663,11 @@
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-6">SEGURIDAD INFORMATICA</h4>
+						<h4 class="modal-title" id="Modal-label-6">INTERNET DE LAS COSAS</h4>
 					</div>
 					<div class="modal-body">
 						<img src="images/test.mkv" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Consultorias</span><span>Sistemas Anti-intrusion</span></div>
+						<div class="modal-works"><span>Industrias</span><span>Hogares</span></div>
 						<p>Consultoria y aplicacion de medidas para la seguridad informatica:</p>
 						<p>Pen Testing </p>
 						<p>Implementacion de politicas de seguridad funcionales </p>
