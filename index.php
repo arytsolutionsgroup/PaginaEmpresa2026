@@ -601,6 +601,8 @@
 						<p>Analisis de vulnerabilidades y errores en software.</p>
 						<p>Remanufacturacion de software.</p>
 						<p>Mantenimiento de aplicaciones.</p>
+						<p>Migracion de aplicaciones.</p>
+						<p>M.</p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -642,11 +644,11 @@
 						<img src="images/demo/portfolio-5.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Alarmas de Intrusion</span><span>Alarmas Contraincendios</span></div>
 						<p>Diseño de instalaciones para seguridad electronica:</p>
-						<p>Alarmas de Intrusion </p>
+						<p>Alarmas de Intrusion.</p>
 						<p>Alarmas Contra Incendios </p>
-						<p>Controles de Acceso </p>
-						<p>Circuito Cerrado de Television CCTV </p>
-						<p>Monitoreo de los sistemas desde su celular </p>
+						<p>Controles de Acceso.</p>
+						<p>Circuito Cerrado de Television CCTV.</p>
+						<p>Monitoreo de los sistemas desde su celular.</p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
