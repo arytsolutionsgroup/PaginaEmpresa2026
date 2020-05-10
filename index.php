@@ -549,11 +549,11 @@
 					</div>
 					<div class="modal-body">
 						<img src="images/port1-webdesign.gif" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Pagina WEB a medida</span></div>
+						<div class="modal-works"><span>Desarrollo Front End</span></div>
 						<p>Diseño de paginas WEB a medida para su negocio u organizacion.</p>
 						<p>Esquema multiplataforma para que su pagina llegue a mas personas.</p>
 						<p>Paginas completamente interactivas, seguras, rapidas y eficaces.</p>
-						<p>Paginas completamente interactivas, rapidas y eficaces.</p>
+						<p>Conectividad con bases de datos SQL o No SQL.</p>
 						<button type="submit" name="sendmail" class="btn">Send Message</button>
 						
 					</div>
@@ -571,13 +571,14 @@
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-2">DESARROLLO DE APP´S MOVILES</h4>
+						<h4 class="modal-title" id="Modal-label-2">DESARROLLO DE SOFTWARE</h4>
 					</div>
 					<div class="modal-body">
 						<img src="images/port2-mobile.gif" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Android</span><span>IOS</span></div>
-						<p>Lleve su negocio u organizacion a mas personas con las App´s moviles.</p>
-						<p>Aplicaciones multiproposito, elegantes y efectivas.</p>						
+						<div class="modal-works"><span>Desarrollo Back End</span></div>
+						<p>Desarrollo de Aplicaciones de Escritorio.</p>
+						<p>Desarrollo de Aplicaciones Moviles.</p>
+						<p>Desarrollo de Aplicaciones Hibridas.</p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -592,13 +593,14 @@
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-3">DESARROLLO DE SOFTWARE</h4>
+						<h4 class="modal-title" id="Modal-label-3">CONSULTORIA IT</h4>
 					</div>
 					<div class="modal-body">
 						<img src="images/port3-softdevel.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Windows</span><span>Linux</span><span>IOS</span></div>
-						<p>Software de calidad</p>
-						<p>Soporte a los productos</p>
+						<p>Analisis de vulnerabilidades y errores en software.</p>
+						<p>Remanufacturacion de software.</p>
+						<p>Mantenimiento de aplicaciones.</p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
