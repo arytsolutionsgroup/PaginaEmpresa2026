@@ -244,7 +244,7 @@
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
-							<img src="images/port2-movile.jpeg" alt="Movile App Design" class="img-responsive" />
+							<img src="images/port2-softdevel.jpg" alt="Software Design" class="img-responsive" />
 							<figcaption>
 								<h2>DESAROLLO DE SOFTWARE A MEDIDA</h2>
 								<p>Conoce mas</p>
@@ -258,9 +258,9 @@
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
-							<img src="images/port3-softdevel.jpg" alt="Software Design" class="img-responsive" />
+							<img src="images/port3-ITCon.jpg" alt="IT Consulting" class="img-responsive" />
 							<figcaption>
-								<h2>DESAROLLO DE SOTFWARE A MEDIDA</h2>
+								<h2>Consultoria en IT</h2>
 								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-3">View more</a>
 							</figcaption>
@@ -288,20 +288,6 @@
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
-							<img src="images/port5-electroseg.jpeg" alt="img02" class="img-responsive" />
-							<figcaption>
-								<h2>SEGURIDAD ELECTRONICA</h2>
-								<p>Conoce mas</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-5">View more</a>
-							</figcaption>
-						</figure>
-					</div>
-				</div>
-				<!-- end portfolio item -->
-				<!-- start portfolio item -->
-				<div class="col-md-4">
-					<div class="ot-portfolio-item">
-						<figure class="effect-bubba">
 							<img src="images/port6-infsecurity.jpeg" alt="Informatics Security" class="img-responsive" />
 							<figcaption>
 								<h2>DOMOTICA E INTERNET DE LAS COSAS</h2>
@@ -312,11 +298,20 @@
 					</div>
 				</div>
 				<!-- end portfolio item -->
-				
-			
-				
-				
-				
+				<!-- start portfolio item -->
+				<div class="col-md-4">
+					<div class="ot-portfolio-item">
+						<figure class="effect-bubba">
+							<img src="images/port5-electroseg.jpeg" alt="img02" class="img-responsive" />
+							<figcaption>
+								<h2>SEGURIDAD ELECTRONICA</h2>
+								<p>Conoce mas</p>
+								<a href="#" data-toggle="modal" data-target="#Modal-5">View more</a>
+							</figcaption>
+						</figure>
+					</div>
+				</div>
+				<!-- end portfolio item -->				
 			</div>
 			</div><!-- end container -->
 		</section>
@@ -387,6 +382,7 @@
 								<li>Examenes de Poligrafía, multiproposito.</li>
 								<li>Examenes Psicotecnicos para procesos de selección.</li>
 								<li>Examenes de conocimientos <br/> para procesos de selección especializados.</li>
+									</br>
 					          	</ul>
 								</p>								
 								</div>
@@ -411,6 +407,7 @@
 								  <li>Puertas, Ventanas y Chapas de Seguridad.</li>
 								  <li>Puertas, Ventanas y Cortinas Automatizadas.</li>
 								  <li>Sistemas Electronicos Autmotrices (Alarmas, Sonido y Comunicaciones).</li>
+									</br>
 					          	</ul>
 								</p>								
 								</div>
@@ -437,6 +434,7 @@
 								  <li>Elementos de Seguridad Electronica.</li>
 								  <li>Elementos para Domotica.</li>
 								  <li>Elementos de Electronica para Proyectos.</li>
+									</br>
 					          	</ul>
 								</p>								
 								</div>
@@ -457,10 +455,10 @@
 								<div align="left">									
 								<p>
 								<ul>
-								  <li>Instalaciones Electricas, Gas y Agua .</li>
-								  <li>Instalaciones de Tuberia para <br/> gas y agua.</li>
+								  <li>Instalaciones de electronica de RED y cableado estructurado.</li>
+								  <li>Instalaciones de sistemas de seguridad electronica.</li>
 								  <li>Instalacion de PLC´s para procesos industriales.</li>
-								  <li>Automatizacion y Control.</li>								  
+								  <li>Automatizacion y Control de industria, empresa y hogares.</li>								  
 					          	</ul>
 								</p>								
 								</div>
@@ -664,7 +662,7 @@
 						<h4 class="modal-title" id="Modal-label-6">SEGURIDAD INFORMATICA</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/modals/portfolio-6.jpg" alt="img01" class="img-responsive" />
+						<img src="images/test.mkv" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Consultorias</span><span>Sistemas Anti-intrusion</span></div>
 						<p>Consultoria y aplicacion de medidas para la seguridad informatica:</p>
 						<p>Pen Testing </p>
@@ -678,77 +676,9 @@
 					</div>
 				</div>
 			</div>
-		</div>
-		<!-- Modal for portfolio item 7 -->
-		<div class="modal fade" id="Modal-7" tabindex="-1" role="dialog" aria-labelledby="Modal-label-7">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-7">INTERNET DE LAS COSAS</h4>
-					</div>
-					<div class="modal-body">
-						<img src="images/modals/portfolio-7.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>CONTROL DIGITAL</span><span>CONEXION CON LA NUBE</span></div>
-						<p>Diseño de electronica IoT para instalaciones domoticas o industriales:</p>
-						<p>Control y registro de gasto de servicios publicos. </p>
-						<p>Control y registro de sus electrodomesticos o maquinaria industrial. </p>
-						
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- Modal for portfolio item 8 -->
-		<div class="modal fade" id="Modal-8" tabindex="-1" role="dialog" aria-labelledby="Modal-label-8">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-8">INSTALACIONES ELECTRICAS</h4>
-					</div>
-					<div class="modal-body">
-						<img src="images/modals/portfolio-8.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>CONTROL DIGITAL</span><span>CONEXION CON LA NUBE</span></div>
-						<p>Consultoria y aplicacion de medidas para la seguridad informatica:</p>
-						<p>Pen Testing </p>
-						<p>Implementacion de politicas de seguridad funcionales </p>
-						<p>Honey Pots </p>
-						<p>Firewalls </p>
-						
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- Modal for portfolio item 9 -->
-		<div class="modal fade" id="Modal-9" tabindex="-1" role="dialog" aria-labelledby="Modal-label-9">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-9">WEB SERVER AND HOSTING</h4>
-					</div>
-					<div class="modal-body">
-						<img src="images/modals/portfolio-7.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>CONTROL DIGITAL</span><span>CONEXION CON LA NUBE</span></div>
-						<p>Consultoria y aplicacion de medidas para la seguridad informatica:</p>
-						<p>Pen Testing </p>
-						<p>Implementacion de politicas de seguridad funcionales </p>
-						<p>Honey Pots </p>
-						<p>Firewalls </p>
-						
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
+		</div>	
+		
+		
 		<!-- Bootstrap core JavaScript
 			================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->
