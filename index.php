@@ -288,9 +288,9 @@
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
-							<img src="images/port6-infsecurity.jpeg" alt="Informatics Security" class="img-responsive" />
+							<img src="images/port6-domotics-iot.jpg" alt="Informatics Security" class="img-responsive" />
 							<figcaption>
-								<h2>DOMOTICA E INTERNET DE LAS COSAS</h2>
+								<h2>INTERNET DE LAS COSAS</h2>
 								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-6">Ver mas</a>
 							</figcaption>
