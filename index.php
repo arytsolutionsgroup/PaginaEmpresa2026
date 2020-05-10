@@ -8,7 +8,7 @@
 		<meta name="description" content="Argos Tech Web Site">
 		<meta name="author" content="Argos Technology Solutions">
 		<link rel="icon" href="favicon.ico">
-		<title>Argos R&T - Technology Solutions</title>
+		<title>ARYT SG - Technology Solutions</title>
 		<!-- Bootstrap core CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -68,7 +68,7 @@
 			<div class="container">
 				<div class="slider-container">
 					<div class="intro-text">
-						<div class="intro-lead-in">Bienvenido al Futuro</div>
+						<div class="intro-lead-in">Argus Technology Solutions</div>
 						<div class="intro-heading">La tecnologia e innovacion al servicio de sus intereses</div>
 						<a href="#about" class="page-scroll btn btn-xl">Informese</a>
 					</div>
@@ -81,7 +81,7 @@
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
 						  <h2>Acerca de Nosotros</h2>
-						  <p align="center">Somos una empresa de soluciones en ingenieria que presta servicios y vende productos para facilitar.</p>
+						  <p align="center">Le ofrecemos lo ultimo de la tecnologia como su aliada, para que logre el cumplimiento de sus metas de manera simple y efectiva.</p>
 						</div>
 					</div>
 				</div>
@@ -212,7 +212,7 @@
 					</div>
 				</div>
 			</section>		
-##########################################End Section Counter#################-->
+########################################## Fin seccion -End Section #################-->
 
 
 		<section id="services" class="light-bg">
@@ -533,8 +533,8 @@
 					</div>
 					<div class="col-md-3">
 						<h3>Horarios de Atención</h3>
-						<p><i class="fa fa-clock-o"></i> <span class="day">Lunes a Viernes:</span><span>8am a 8pm</span></p>
-						<p><i class="fa fa-clock-o"></i> <span class="day">Sabado:</span><span>9am a 2pm</span></p>
+						<p><i class="fa fa-clock-o"></i> <span class="day">Lunes a Viernes:</span><span>8 a.m. a 8 p.m.</span></p>
+						<p><i class="fa fa-clock-o"></i> <span class="day">Sabado:</span><span>9 a.m. a 2 p.m.</span></p>
 						<p><i class="fa fa-clock-o"></i> <span class="day">Domingo:</span><span>Cerrado</span></p>
 					</div>
 					<div class="col-md-6">
