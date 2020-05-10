@@ -234,7 +234,7 @@
 							<figcaption>
 								<h2>DISEÑO WEB</h2>
 								<p>Conoce mas</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-1">View more</a>
+								<a href="#" data-toggle="modal" data-target="#Modal-1">Ver mas</a>
 							</figcaption>
 						</figure>
 					</div>
@@ -246,7 +246,7 @@
 						<figure class="effect-bubba">
 							<img src="images/port2-softdevel.jpg" alt="Software Design" class="img-responsive" />
 							<figcaption>
-								<h2>DESAROLLO DE SOFTWARE A MEDIDA</h2>
+								<h2>DESAROLLO DE SOFTWARE</h2>
 								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-2">View more</a>
 							</figcaption>
