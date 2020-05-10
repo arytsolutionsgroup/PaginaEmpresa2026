@@ -394,20 +394,19 @@
 					<div class="col-md-3">
 						<div class="team-item">
 							<div class="team-image">
-								<img src="images/partner2.jpeg" class="img-responsive" alt="author">
+								<img src="images/partner4.jpeg" class="img-responsive" alt="author">
 							</div>
 							<div class="team-text">
-								<h3><a href="safedoors\index.html">SAFEDOORS</a></h3>
+								<h3><a href="IESG\index.html">IESG</a></h3>
 								<div class="team-location">Bogotá, Colombia</div>
-								<div class="team-position">– Puertas, Talanqueras y Seguridad –</div>
-								<div align="left">
-									
+								<div class="team-position">– Instalaciones Industriales o Empresariales  –</div>
+								<div align="left">									
 								<p>
 								<ul>
-								  <li>Puertas, Ventanas y Chapas de Seguridad.</li>
-								  <li>Puertas, Ventanas y Cortinas Automatizadas.</li>
-								  <li>Sistemas Electronicos Autmotrices (Alarmas, Sonido y Comunicaciones).</li>
-									</br>
+								  <li>Instalaciones de electronica de RED y cableado estructurado.</li>
+								  <li>Instalaciones de sistemas de seguridad electronica.</li>
+								  <li>Instalacion de PLC´s para procesos industriales.</li>
+								  <li>Automatizacion y Control de industria, empresa y hogares.</li>
 					          	</ul>
 								</p>								
 								</div>
@@ -441,24 +440,25 @@
 							</div>
 						</div>
 					</div>
-					<!-- end team member item -->
+					<!-- end team member item -->					
 					<!-- team member item -->
 					<div class="col-md-3">
 						<div class="team-item">
 							<div class="team-image">
-								<img src="images/partner4.jpeg" class="img-responsive" alt="author">
+								<img src="images/partner2.jpeg" class="img-responsive" alt="author">
 							</div>
 							<div class="team-text">
-								<h3><a href="IESG\index.html">IESG</a></h3>
+								<h3><a href="safedoors\index.html">SAFEDOORS</a></h3>
 								<div class="team-location">Bogotá, Colombia</div>
-								<div class="team-position">– Instalaciones Industriales o Empresariales  –</div>
-								<div align="left">									
+								<div class="team-position">– Puertas, Talanqueras y Seguridad –</div>
+								<div align="left">
+									
 								<p>
 								<ul>
-								  <li>Instalaciones de electronica de RED y cableado estructurado.</li>
-								  <li>Instalaciones de sistemas de seguridad electronica.</li>
-								  <li>Instalacion de PLC´s para procesos industriales.</li>
-								  <li>Automatizacion y Control de industria, empresa y hogares.</li>								  
+								  <li>Puertas, Ventanas y Chapas de Seguridad.</li>
+								  <li>Puertas, Ventanas y Cortinas Automatizadas.</li>
+								  <li>Sistemas Electronicos Autmotrices (Alarmas, Sonido y Comunicaciones).</li>
+									</br>
 					          	</ul>
 								</p>								
 								</div>
