@@ -89,8 +89,8 @@
 					<!-- about module -->
 					<div class="col-md-3 text-center">
 						<div class="mz-module-about"><em class="fa fa-cloud ot-circle"></em>
-						  <h3>Desarrollo Web y cloud computing</h3>
-							<p>Usa para tu empresa, tu marca o tu organizacion lo ultimo del estado del arte en diseño WEB. Usa programas desde la nube y ahorrate en gastos de mantenimiento!.</p>
+						  <h3>Desarrollo Web</h3>
+							<p>Usa para tu empresa, tu marca o tu organizacion lo ultimo del estado del arte en diseño WEB. Usa paginas completamente interactivas que lleven tu negocio u organizacion al mayor rendimiento posible.</p>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -246,7 +246,7 @@
 						<figure class="effect-bubba">
 							<img src="images/port2-movile.jpeg" alt="Movile App Design" class="img-responsive" />
 							<figcaption>
-								<h2>DESAROLLO DE APP´S MOVILES</h2>
+								<h2>DESAROLLO DE SOFTWARE A MEDIDA</h2>
 								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-2">View more</a>
 							</figcaption>
@@ -304,7 +304,7 @@
 						<figure class="effect-bubba">
 							<img src="images/port6-infsecurity.jpeg" alt="Informatics Security" class="img-responsive" />
 							<figcaption>
-								<h2>SEGURIDAD INFORMATICA</h2>
+								<h2>DOMOTICA E INTERNET DE LAS COSAS</h2>
 								<p>Conoce mas</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-6">View more</a>
 							</figcaption>
@@ -313,50 +313,9 @@
 				</div>
 				<!-- end portfolio item -->
 				
-			</div>
-				<div class="row">
-				<!-- start portfolio item -->
-				<div class="col-md-4">
-					<div class="ot-portfolio-item">
-						<figure class="effect-bubba">
-							<img src="images/port7-domotics-iot.jpg" alt="Domotics and IoT technologies" class="img-responsive" />
-							<figcaption>
-								<h2>DOMOTICA E INTERNET DE LAS COSAS</h2>
-								<p>Conoce mas</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-7">View more</a>
-							</figcaption>
-						</figure>
-					</div>
-				</div>
-				<!-- end portfolio item -->
-				<!-- start portfolio item -->
-				<div class="col-md-4">
-					<div class="ot-portfolio-item">
-						<figure class="effect-bubba">
-							<img src="images/port8-electric.jpg" alt="img02" class="img-responsive" />
-							<figcaption>
-								<h2>INSTALACIONES ELECTRICAS</h2>
-								<p>Conoce mas</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-8">View more</a>
-							</figcaption>
-						</figure>
-					</div>
-				</div>
-				<!-- end portfolio item -->
-				<!-- start portfolio item -->
-				<div class="col-md-4">
-					<div class="ot-portfolio-item">
-						<figure class="effect-bubba">
-							<img src="images/port9-cloud.jpg" alt="img02" class="img-responsive" />
-							<figcaption>
-								<h2>WEB & SERVER HOSTING</h2>
-								<p>Conoce mas</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-9">View more</a>
-							</figcaption>
-						</figure>
-					</div>
-				</div>
-				<!-- end portfolio item -->
+			
+				
+				
 				
 			</div>
 			</div><!-- end container -->
