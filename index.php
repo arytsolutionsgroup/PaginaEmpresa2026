@@ -554,7 +554,7 @@
 						<p>Esquema multiplataforma para que su pagina llegue a mas personas.</p>
 						<p>Paginas completamente interactivas, seguras, rapidas y eficaces.</p>
 						<p>Conectividad con bases de datos SQL o No SQL.</p>
-						<button type="submit" name="sendmail" class="btn">Send Message</button>
+						<!--button type="submit" name="sendmail" class="btn">Send Message</button-->
 						
 					</div>
 					<div class="modal-footer">
@@ -602,7 +602,7 @@
 						<p>Remanufacturacion de software.</p>
 						<p>Mantenimiento de aplicaciones.</p>
 						<p>Migracion de aplicaciones.</p>
-						<p>M.</p>
+						
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
