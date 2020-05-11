@@ -668,12 +668,10 @@
 					<div class="modal-body">
 						<img src="images/test.mkv" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Industrias</span><span>Hogares</span></div>
-						<p>Consultoria y aplicacion de medidas para la seguridad informatica:</p>
-						<p>Pen Testing </p>
-						<p>Implementacion de politicas de seguridad funcionales </p>
-						<p>Honey Pots </p>
-						<p>Firewalls </p>
-						
+						<p>Diseño de sistemas de control y analisis de:</p>
+						<p>Servicios Publicos</p>
+						<p>Electrodomesticos, Redes o Maquinaria Industrial </p>
+						<p>Dispositivos de seguridad o supervisión electronica</p>					
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
