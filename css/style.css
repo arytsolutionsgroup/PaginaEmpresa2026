@@ -62,6 +62,15 @@ p {
     color: #797979;
 }
 
+c {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+	line-height: 23px;
+    letter-spacing: 0.2px;
+    color: #797979;
+}
+
 a:hover, a:focus, a:active, a.active {
     color: #fec503;
 }
@@ -465,7 +474,7 @@ figure.effect-bubba:hover p {
 }
 
 .bg-img1 {
-    background-image: url(../images/demo/office-bg.jpg);
+    background-image: url(../images/office-bg.jpg);
     background-size: cover !important;
     background-position: center center;
     background-repeat: no-repeat;
@@ -589,6 +598,10 @@ section#contact .form-group input, section#contact .form-group textarea {
     font-size: 13px;
 }
 
+.contact c {
+    font-size: 13px;
+}
+
 .contact .day {
     display: inline-block;
     width: 80px;
@@ -648,6 +661,11 @@ footer p a span {
 
 .modal-body p {
 	margin: 30px 20px;
+	color: #2D2D2D;		
+}
+
+.modal-body c {
+	margin: 30px 40px;
 	color: #2D2D2D;		
 }
 

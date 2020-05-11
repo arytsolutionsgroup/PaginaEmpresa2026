@@ -644,11 +644,11 @@
 						<img src="images/demo/portfolio-5.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Alarmas</span><span>Control de Acceso</span></div>
 						<p>Diseño de instalaciones para seguridad electronica:</p>
-						<p>Alarmas de Intrusion.</p>
-						<p>Alarmas Contra Incendios </p>
-						<p>Controles de Acceso.</p>
-						<p>Circuito Cerrado de Television CCTV.</p>
-						<p>Monitoreo de los sistemas desde su celular.</p>
+						<c>Alarmas de Intrusion.</c><br>
+						<c>Alarmas Contra Incendios.</c><br>
+						<c>Controles de Acceso.</c><br>
+						<c>Circuito Cerrado de Television CCTV.</c><br>
+						<c>Monitoreo de los sistemas desde su celular.</c>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
