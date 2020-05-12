@@ -669,9 +669,9 @@
 						<img src="images/test.mkv" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Industrias</span><span>Hogares</span></div>
 						<p>Diseño de sistemas de control y analisis de:</p>
-						<p>Servicios Publicos</p>
-						<p>Electrodomesticos, Redes o Maquinaria Industrial </p>
-						<p>Dispositivos de seguridad o supervisión electronica</p>					
+						<c>Servicios Publicos</c>
+						<c>Electrodomesticos, Redes o Maquinaria Industrial </c>
+						<c>Dispositivos de seguridad o supervisión electronica</c>					
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
