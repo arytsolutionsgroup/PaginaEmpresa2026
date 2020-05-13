@@ -399,7 +399,7 @@
 							<div class="team-text">
 								<h3><a href="IESG\index.html">IESG</a></h3>
 								<div class="team-location">Bogotá, Colombia</div>
-								<div class="team-position">– Instalaciones Industriales o Empresariales  –</div>
+								<div class="team-position">– Instalaciones Industriales o Empresariales –</div>
 								<div align="left">									
 								<p>
 								<ul>
@@ -458,7 +458,7 @@
 								  <li>Puertas, Ventanas y Chapas de Seguridad.</li>
 								  <li>Puertas, Ventanas y Cortinas Automatizadas.</li>
 								  <li>Sistemas Electronicos Autmotrices (Alarmas, Sonido y Comunicaciones).</li>
-									</br>
+								</br>
 					          	</ul>
 								</p>								
 								</div>
@@ -622,8 +622,8 @@
 					<div class="modal-body">
 						<img src="images/demo/portfolio-4.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>CABLEADO ESTRUCTURADO</span><span>ELECTRONICA DE RED</span></div>
-						<p>Diseño de red y cableado estructurado para su organizacion, industria o negocio, con normas internacionales</p>
-						<p>Configuracion de equipos de electronica de Red de diversos fabricantes, Cisco, TpLink, Huawei</p>
+						<p>Diseño de red y cableado estructurado para su organizacion, industria o negocio, con normas internacionales</p><br>
+						<p>Configuracion de equipos de electronica de Red de diversos fabricantes, Cisco, TpLink, Huawei</p><br>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -669,9 +669,9 @@
 						<img src="images/test.mkv" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Industrias</span><span>Hogares</span></div>
 						<p>Diseño de sistemas de control y analisis de:</p>
-						<c>Servicios Publicos</c>
-						<c>Electrodomesticos, Redes o Maquinaria Industrial </c>
-						<c>Dispositivos de seguridad o supervisión electronica</c>					
+						<c>Servicios Publicos</c><br>
+						<c>Electrodomesticos, Redes o Maquinaria Industrial </c><br>
+						<c>Dispositivos de seguridad o supervisión electronica</c>	<br>				
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
