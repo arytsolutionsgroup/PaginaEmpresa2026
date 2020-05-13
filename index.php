@@ -599,10 +599,13 @@
 					<div class="modal-body">
 						<img src="images/port3-softdevel.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Windows</span><span>Linux</span><span>IOS</span></div>
-						<c>Analisis de vulnerabilidades y errores en software.</c>
-						<c>Remanufacturacion de software.</c>
-						<c>Mantenimiento de aplicaciones.</c>
-						<c>Migracion de aplicaciones.</c>
+						<p>Consultorias en:</p>
+						<c>Analisis de vulnerabilidades y errores en software.</c><br>
+						<c>Remanufacturacion de software.</c><br>
+						<c>Mantenimiento de aplicaciones.</c><br>
+						<c>Migracion de aplicaciones.</c><br>
+						<c>Instalacion de servidores y equipos de computo.</c><br>
+						<c>Establecimiento de redes de computacion y configuracion de electronica de red.</c><br>
 						
 					</div>
 					<div class="modal-footer">
