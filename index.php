@@ -399,7 +399,7 @@
 							<div class="team-text">
 								<h3><a href="IESG\index.html">IESG</a></h3>
 								<div class="team-location">Bogotá, Colombia</div>
-								<div class="team-position">– Instalaciones Industriales o Empresariales –</div>
+								<div class="team-position">– Ingenieria e Instalaciones –</div>
 								<div align="left">									
 								<p>
 								<ul>
@@ -458,6 +458,7 @@
 								  <li>Puertas, Ventanas y Chapas de Seguridad.</li>
 								  <li>Puertas, Ventanas y Cortinas Automatizadas.</li>
 								  <li>Sistemas Electronicos Autmotrices (Alarmas, Sonido y Comunicaciones).</li>
+								</br>
 								</br>
 					          	</ul>
 								</p>								
