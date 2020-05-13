@@ -550,10 +550,10 @@
 					<div class="modal-body">
 						<img src="images/port1-webdesign.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Desarrollo Front End</span></div>
-						<p>Diseño de paginas WEB a medida para su negocio u organizacion.</p>
-						<p>Esquema multiplataforma para que su pagina llegue a mas personas.</p>
-						<p>Paginas completamente interactivas, seguras, rapidas y eficaces.</p>
-						<p>Conectividad con bases de datos SQL o No SQL.</p>
+						<c>Diseño de paginas WEB a medida para su negocio u organizacion.</c>
+						<c>Esquema multiplataforma para que su pagina llegue a mas personas.</c>
+						<c>Paginas completamente interactivas, seguras, rapidas y eficaces.</c>
+						<c>Conectividad con bases de datos SQL o No SQL.</c>
 						<!--button type="submit" name="sendmail" class="btn">Send Message</button-->
 						
 					</div>
@@ -598,10 +598,10 @@
 					<div class="modal-body">
 						<img src="images/port3-softdevel.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Windows</span><span>Linux</span><span>IOS</span></div>
-						<p>Analisis de vulnerabilidades y errores en software.</p>
-						<p>Remanufacturacion de software.</p>
-						<p>Mantenimiento de aplicaciones.</p>
-						<p>Migracion de aplicaciones.</p>
+						<c>Analisis de vulnerabilidades y errores en software.</c>
+						<c>Remanufacturacion de software.</c>
+						<c>Mantenimiento de aplicaciones.</c>
+						<c>Migracion de aplicaciones.</c>
 						
 					</div>
 					<div class="modal-footer">
