@@ -577,10 +577,10 @@
 					<div class="modal-body">
 						<img src="images/port2-mobile.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Desarrollo Back End</span></div>
-						<c>Desarrollo de:</c>
-						<p>Aplicaciones de Escritorio.</p>
-						<p>Aplicaciones Moviles.</p>
-						<p>Aplicaciones Hibridas.</p>
+						<p>Desarrollo de:</p>
+						<c>Aplicaciones de Escritorio.</c><br>
+						<c>Aplicaciones Moviles.</c><br>
+						<c>Aplicaciones Hibridas.</c><br>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -627,8 +627,11 @@
 					<div class="modal-body">
 						<img src="images/demo/portfolio-4.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>CABLEADO ESTRUCTURADO</span><span>ELECTRONICA DE RED</span></div>
-						<p>Diseño de red y cableado estructurado para su organizacion, industria o negocio, con normas internacionales</p><br>
-						<p>Configuracion de equipos de electronica de Red de diversos fabricantes, Cisco, TpLink, Huawei</p><br>
+						<p>Diseño y consultoria en: </p>
+						<c>Redes y cableado estructurado con normas internacionales.</c><br>
+						<c>Configuración de equipos de electronica de red.</c><br>
+						<c>Configuración de servidores.</c><br>
+						<c>Configuración de PLC.</c><br>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
