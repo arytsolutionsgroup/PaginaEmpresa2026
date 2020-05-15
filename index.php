@@ -551,10 +551,10 @@
 					<div class="modal-body">
 						<img src="images/port1-webdesign.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Desarrollo Front End</span></div>
-						<c>Diseño de paginas WEB a medida para su negocio u organizacion.</c>
+						<p>Diseño de paginas WEB a medida:</p>
 						<c>Esquema multiplataforma para que su pagina llegue a mas personas.</c>
 						<c>Paginas completamente interactivas, seguras, rapidas y eficaces.</c>
-						<c>Conectividad con bases de datos SQL o No SQL.</c>
+						<c>Conectividad con bases de datos SQL o No SQL.</c>						
 						<!--button type="submit" name="sendmail" class="btn">Send Message</button-->
 						
 					</div>
@@ -577,9 +577,10 @@
 					<div class="modal-body">
 						<img src="images/port2-mobile.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Desarrollo Back End</span></div>
-						<p>Desarrollo de Aplicaciones de Escritorio.</p>
-						<p>Desarrollo de Aplicaciones Moviles.</p>
-						<p>Desarrollo de Aplicaciones Hibridas.</p>
+						<c>Desarrollo de:</c>
+						<p>Aplicaciones de Escritorio.</p>
+						<p>Aplicaciones Moviles.</p>
+						<p>Aplicaciones Hibridas.</p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
