@@ -605,9 +605,7 @@
 						<c>Remanufacturacion de software.</c><br>
 						<c>Mantenimiento de aplicaciones.</c><br>
 						<c>Migracion de aplicaciones.</c><br>
-						<c>Instalacion de servidores y equipos de computo.</c><br>
-						<c>Establecimiento de redes de computacion y configuracion de electronica de red.</c><br>
-						
+						<c>Configuracion de servidores y estaciones de trabajo.</c><br>	
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -626,12 +624,12 @@
 					</div>
 					<div class="modal-body">
 						<img src="images/demo/portfolio-4.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>CABLEADO ESTRUCTURADO</span><span>ELECTRONICA DE RED</span></div>
+						<div class="modal-works"><span>infraestructura de red</span></div>
 						<p>Diseño y consultoria en: </p>
 						<c>Redes y cableado estructurado con normas internacionales.</c><br>
 						<c>Configuración de equipos de electronica de red.</c><br>
-						<c>Configuración de servidores.</c><br>
-						<c>Configuración de PLC.</c><br>
+						<c>Configuración de plantas de telefonia IP.</c><br>
+						<c>Configuración de PLC´s. y sistemas SCADA</c><br>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
