@@ -366,7 +366,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<!-- team member item -->
+					<!--  Inicio Item Cliente & Aliados -->
 					<div class="col-md-3">
 						<div class="team-item">
 							<div class="team-image">
@@ -389,8 +389,8 @@
 						    </div>
 						</div>			
 					</div>
-					<!-- end team member item -->
-					<!-- team member item -->
+					<!--  Fin Item Cliente & Aliados -->
+					<!--  Inicio Item Cliente & Aliadosv -->
 					<div class="col-md-3">
 						<div class="team-item">
 							<div class="team-image">
@@ -413,8 +413,8 @@
 							</div>
 						</div>
 					</div>
-					<!-- end team member item -->
-					<!-- team member item -->
+					<!--  Fin Item Cliente & Aliados -->
+					<!--  Inicio Item Cliente & Aliados -->
 					<div class="col-md-3">
 						<div class="team-item">
 							<div class="team-image">
@@ -440,8 +440,8 @@
 							</div>
 						</div>
 					</div>
-					<!-- end team member item -->					
-					<!-- team member item -->
+					<!--  Fin Item Cliente & Aliados -->					
+					<!-- Inicio Item Cliente & Aliados -->
 					<div class="col-md-3">
 						<div class="team-item">
 							<div class="team-image">
@@ -466,7 +466,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- end team member item -->
+					<!-- Fin Item Cliente & Aliados -->
 					
 				</div>
 			</div>
