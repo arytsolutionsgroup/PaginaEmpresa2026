@@ -500,6 +500,35 @@
 						</div>
 					
 					<!-- Fin Item Cliente & Aliados -->
+
+					<!-- Inicio Item Cliente & Aliados -->
+					
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/partner5.jpg" class="img-responsive" alt="author">
+							</div>
+							<div class="team-text">
+								<h3><a href="safedoors\index.html">COMPUTO E&R</a></h3>
+								<div class="team-location">Bogotá, Colombia</div>
+								<div class="team-position">– Equipos Personalizados de Computo –</div>
+								<div align="left">
+									
+								<p>
+								<ul>
+								  <li>Puertas, Ventanas y Chapas de Seguridad.</li>
+								  <li>Puertas, Ventanas y Cortinas Automatizadas.</li>
+								  <li>Sistemas Electronicos Autmotrices (Alarmas, Sonido y Comunicaciones).</li>
+								</br>
+								</br>
+								</br>
+					          	</ul>
+								</p>								
+								</div>
+							</div>
+						</div>
+					
+					<!-- Fin Item Cliente & Aliados -->
+
 					</div>
 				</div>
 			 </div>
