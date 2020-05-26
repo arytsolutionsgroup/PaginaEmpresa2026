@@ -366,8 +366,9 @@
 					</div>
 				</div>
 				<div class="row">
-					<!-- team member item -->
-					<div class="col-md-3">
+					<div class="owl-carousel">
+					<!--  Inicio Item Cliente & Aliados -->
+					
 						<div class="team-item">
 							<div class="team-image">
 								<img src="images/partner1.jpg" class="img-responsive" alt="clientorally">
@@ -383,15 +384,16 @@
 								<li>Examenes Psicotecnicos para procesos de selección.</li>
 								<li>Examenes de conocimientos <br/> para procesos de selección especializados.</li>
 									</br>
+									</br>
 					          	</ul>
 								</p>								
 								</div>
 						    </div>
 						</div>			
-					</div>
-					<!-- end team member item -->
-					<!-- team member item -->
-					<div class="col-md-3">
+					
+					<!--  Fin Item Cliente & Aliados -->
+					<!--  Inicio Item Cliente & Aliadosv -->
+					
 						<div class="team-item">
 							<div class="team-image">
 								<img src="images/partner4.jpeg" class="img-responsive" alt="author">
@@ -399,7 +401,7 @@
 							<div class="team-text">
 								<h3><a href="IESG\index.html">IESG</a></h3>
 								<div class="team-location">Bogotá, Colombia</div>
-								<div class="team-position">– Instalaciones Industriales o Empresariales  –</div>
+								<div class="team-position">– Ingenieria e Instalaciones –</div>
 								<div align="left">									
 								<p>
 								<ul>
@@ -412,10 +414,10 @@
 								</div>
 							</div>
 						</div>
-					</div>
-					<!-- end team member item -->
-					<!-- team member item -->
-					<div class="col-md-3">
+					
+					<!--  Fin Item Cliente & Aliados -->
+					<!--  Inicio Item Cliente & Aliados -->
+					
 						<div class="team-item">
 							<div class="team-image">
 								<img src="images/partner3.jpg" class="img-responsive" alt="author">
@@ -434,15 +436,17 @@
 								  <li>Elementos para Domotica.</li>
 								  <li>Elementos de Electronica para Proyectos.</li>
 									</br>
+									</br>
+									</br>
 					          	</ul>
 								</p>								
 								</div>
 							</div>
 						</div>
-					</div>
-					<!-- end team member item -->					
-					<!-- team member item -->
-					<div class="col-md-3">
+					
+					<!--  Fin Item Cliente & Aliados -->					
+					<!-- Inicio Item Cliente & Aliados -->
+					
 						<div class="team-item">
 							<div class="team-image">
 								<img src="images/partner2.jpeg" class="img-responsive" alt="author">
@@ -458,16 +462,78 @@
 								  <li>Puertas, Ventanas y Chapas de Seguridad.</li>
 								  <li>Puertas, Ventanas y Cortinas Automatizadas.</li>
 								  <li>Sistemas Electronicos Autmotrices (Alarmas, Sonido y Comunicaciones).</li>
-									</br>
+								</br>
+								</br>
+								</br>
 					          	</ul>
 								</p>								
 								</div>
 							</div>
 						</div>
+					
+					<!-- Fin Item Cliente & Aliados -->
+
+					<!-- Inicio Item Cliente & Aliados -->
+					
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/partner5.jpg" class="img-responsive" alt="author">
+							</div>
+							<div class="team-text">
+								<h3><a href="safedoors\index.html">COMPUTO E&R</a></h3>
+								<div class="team-location">Bogotá, Colombia</div>
+								<div class="team-position">– Equipos Personalizados de Computo –</div>
+								<div align="left">
+									
+								<p>
+								<ul>
+								  <li>Puertas, Ventanas y Chapas de Seguridad.</li>
+								  <li>Puertas, Ventanas y Cortinas Automatizadas.</li>
+								  <li>Sistemas Electronicos Autmotrices (Alarmas, Sonido y Comunicaciones).</li>
+								</br>
+								</br>
+								</br>
+					          	</ul>
+								</p>								
+								</div>
+							</div>
+						</div>
+					
+					<!-- Fin Item Cliente & Aliados -->
+
+					<!-- Inicio Item Cliente & Aliados -->
+					
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/partner5.jpg" class="img-responsive" alt="author">
+							</div>
+							<div class="team-text">
+								<h3><a href="safedoors\index.html">GAMINGTECH E&R</a></h3>
+								<div class="team-location">Bogotá, Colombia</div>
+								<div class="team-position">– Equipos Personalizados de Computo –</div>
+								<div align="left">
+									
+								<p>
+								<ul>
+								  <li>Equipos gaming personalizados.</li>
+								  <li>Venta de portatiles Gamer.</li>
+								  <li>Venta de partes de alto rendimiento para gamers</li>
+								</br>
+								</br>
+								</br>
+								</br>
+								</br>
+					          	</ul>
+								</p>								
+								</div>
+							</div>
+						</div>
+					
+					<!-- Fin Item Cliente & Aliados -->
+
 					</div>
-					<!-- end team member item -->
 				</div>
-			</div>
+			 </div>
 		</section>
 		<section id="contact">
 			<div class="container">
@@ -550,10 +616,10 @@
 					<div class="modal-body">
 						<img src="images/port1-webdesign.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Desarrollo Front End</span></div>
-						<p>Diseño de paginas WEB a medida para su negocio u organizacion.</p>
-						<p>Esquema multiplataforma para que su pagina llegue a mas personas.</p>
-						<p>Paginas completamente interactivas, seguras, rapidas y eficaces.</p>
-						<p>Conectividad con bases de datos SQL o No SQL.</p>
+						<p>Diseño de paginas WEB a medida:</p>
+						<c>Esquema multiplataforma para que su pagina llegue a mas personas.</c>
+						<c>Paginas completamente interactivas, seguras, rapidas y eficaces.</c>
+						<c>Conectividad con bases de datos SQL o No SQL.</c>						
 						<!--button type="submit" name="sendmail" class="btn">Send Message</button-->
 						
 					</div>
@@ -576,9 +642,10 @@
 					<div class="modal-body">
 						<img src="images/port2-mobile.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Desarrollo Back End</span></div>
-						<p>Desarrollo de Aplicaciones de Escritorio.</p>
-						<p>Desarrollo de Aplicaciones Moviles.</p>
-						<p>Desarrollo de Aplicaciones Hibridas.</p>
+						<p>Desarrollo de:</p>
+						<c>Aplicaciones de Escritorio.</c><br>
+						<c>Aplicaciones Moviles.</c><br>
+						<c>Aplicaciones Hibridas.</c><br>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -598,11 +665,12 @@
 					<div class="modal-body">
 						<img src="images/port3-softdevel.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Windows</span><span>Linux</span><span>IOS</span></div>
-						<p>Analisis de vulnerabilidades y errores en software.</p>
-						<p>Remanufacturacion de software.</p>
-						<p>Mantenimiento de aplicaciones.</p>
-						<p>Migracion de aplicaciones.</p>
-						
+						<p>Consultorias en:</p>
+						<c>Analisis de vulnerabilidades y errores en software.</c><br>
+						<c>Remanufacturacion de software.</c><br>
+						<c>Mantenimiento de aplicaciones.</c><br>
+						<c>Migracion de aplicaciones.</c><br>
+						<c>Configuracion de servidores y estaciones de trabajo.</c><br>	
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -621,9 +689,12 @@
 					</div>
 					<div class="modal-body">
 						<img src="images/demo/portfolio-4.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>CABLEADO ESTRUCTURADO</span><span>ELECTRONICA DE RED</span></div>
-						<p>Diseño de red y cableado estructurado para su organizacion, industria o negocio, con normas internacionales</p>
-						<p>Configuracion de equipos de electronica de Red de diversos fabricantes, Cisco, TpLink, Huawei</p>
+						<div class="modal-works"><span>infraestructura de red</span></div>
+						<p>Diseño y consultoria en: </p>
+						<c>Redes y cableado estructurado con normas internacionales.</c><br>
+						<c>Configuración de equipos de electronica de red.</c><br>
+						<c>Configuración de plantas de telefonia IP.</c><br>
+						<c>Configuración de PLC´s. y sistemas SCADA</c><br>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -644,11 +715,11 @@
 						<img src="images/demo/portfolio-5.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Alarmas</span><span>Control de Acceso</span></div>
 						<p>Diseño de instalaciones para seguridad electronica:</p>
-						<p>Alarmas de Intrusion.</p>
-						<p>Alarmas Contra Incendios </p>
-						<p>Controles de Acceso.</p>
-						<p>Circuito Cerrado de Television CCTV.</p>
-						<p>Monitoreo de los sistemas desde su celular.</p>
+						<c>Alarmas de Intrusion.</c><br>
+						<c>Alarmas Contra Incendios.</c><br>
+						<c>Controles de Acceso.</c><br>
+						<c>Circuito Cerrado de Television CCTV.</c><br>
+						<c>Monitoreo de los sistemas desde su celular.</c>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -669,9 +740,9 @@
 						<img src="images/test.mkv" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Industrias</span><span>Hogares</span></div>
 						<p>Diseño de sistemas de control y analisis de:</p>
-						<p>Servicios Publicos</p>
-						<p>Electrodomesticos, Redes o Maquinaria Industrial </p>
-						<p>Dispositivos de seguridad o supervisión electronica </p>					
+						<c>Servicios Publicos</c><br>
+						<c>Electrodomesticos, Redes o Maquinaria Industrial </c><br>
+						<c>Dispositivos de seguridad o supervisión electronica</c>	<br>				
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -683,14 +754,14 @@
 		
 		<!-- Bootstrap core JavaScript
 			================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
+		
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/owl.carousel.min.js"></script>
 		<script src="js/cbpAnimatedHeader.js"></script>
-		<script src="js/theme-scripts.js"></script>
-		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+		<script src="js/theme-scripts.js"></script>		
 		<script src="js/ie10-viewport-bug-workaround.js"></script>
+		<!--script src="js/test.js"></script-->
 	</body>
 </html>
