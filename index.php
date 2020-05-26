@@ -616,10 +616,12 @@
 					<div class="modal-body">
 						<img src="images/port1-webdesign.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Desarrollo Front End</span></div>
+
 						<p>Diseño de paginas WEB a medida:</p>
 						<c>Esquema multiplataforma para que su pagina llegue a mas personas.</c>
 						<c>Paginas completamente interactivas, seguras, rapidas y eficaces.</c>
 						<c>Conectividad con bases de datos SQL o No SQL.</c>						
+
 						<!--button type="submit" name="sendmail" class="btn">Send Message</button-->
 						
 					</div>
@@ -665,12 +667,14 @@
 					<div class="modal-body">
 						<img src="images/port3-softdevel.jpg" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Windows</span><span>Linux</span><span>IOS</span></div>
+
 						<p>Consultorias en:</p>
 						<c>Analisis de vulnerabilidades y errores en software.</c><br>
 						<c>Remanufacturacion de software.</c><br>
 						<c>Mantenimiento de aplicaciones.</c><br>
 						<c>Migracion de aplicaciones.</c><br>
 						<c>Configuracion de servidores y estaciones de trabajo.</c><br>	
+
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -740,9 +744,11 @@
 						<img src="images/test.mkv" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Industrias</span><span>Hogares</span></div>
 						<p>Diseño de sistemas de control y analisis de:</p>
+
 						<c>Servicios Publicos</c><br>
 						<c>Electrodomesticos, Redes o Maquinaria Industrial </c><br>
 						<c>Dispositivos de seguridad o supervisión electronica</c>	<br>				
+
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
