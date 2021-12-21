@@ -8,7 +8,7 @@
 		<meta name="description" content="Argos Tech Web Site">
 		<meta name="author" content="Argos Technology Solutions">
 		<link rel="icon" href="favicon.ico">
-		<title>ARYT SG SAS - Technology Solutions</title>
+		<title>ARYT SG - Technology Solutions</title>
 		<!-- Bootstrap core CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
