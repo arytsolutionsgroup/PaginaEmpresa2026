@@ -15,15 +15,8 @@
 		<!-- Custom styles for this template -->
 		<link href="css/owl.carousel.css" rel="stylesheet">
 		<link href="css/owl.theme.default.min.css"  rel="stylesheet">
-		<link href="css/style.css" rel="stylesheet">
-		<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-		<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-		<script src="js/ie-emulation-modes-warning.js"></script>
-		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-		<!--[if lt IE 9]>
-		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
+		<link href="css/style.css" rel="stylesheet">		
+		<script src="js/ie-emulation-modes-warning.js"></script>		
 	</head>
 	<body id="page-top">
 		<!-- Navigation -->
@@ -107,7 +100,7 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module-about">
 							<i class="fa fa-cubes ot-circle"></i>
-							<h3>redes de computadores e industriales</h3>
+							<h3>Redes de computadores e industriales</h3>
 							<p>Manten el rendimiento de tu empresa en niveles optimos, por medio de configuraciones de sistemas de redes de computo empresariales o redes ethernet industriales. Asegura tu información con los apropiados estandares de seguridad en redes.  </p>
 						</div>
 					</div>
