@@ -2,8 +2,8 @@
 #Master SS#
 
 Project Name:	   ARYT Main WEB
-Actual Version:	   6.0
-Last modified:	   9/05/2020
+Actual Version:	   7.0
+Last modified:	   15/05/2022
 Modified by:	   Argus Technology Solutions
 Use:	           WEB Page
 
@@ -12,14 +12,9 @@ Use:	           WEB Page
 0. General
 1. Header
 2. Navigation
-3. Sections
-4. Footer
-5. Components
+4. Sections
+5. Footer
 
-#Color codes#
-
-Buttons, etc:	#726FB9 (blue)
-hover color:	#fed136 (yellow)
 -------------------------------------------------------------------*/
 
 /*--------------------
@@ -538,6 +533,11 @@ figure.effect-bubba:hover p {
 
 .team-item {
     text-align: center;
+    background-color: #fff;
+}
+
+.team-text{
+        text-align: center;
     background-color: #fff;
 }
 
