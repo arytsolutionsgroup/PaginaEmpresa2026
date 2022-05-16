@@ -513,18 +513,18 @@
 				</div>
 				<div class="row">
 					<div class="col-md-3">
-						<h3>Dirección</h3>
-						<p>Carrera 32 No 25 a - 45</p>
-						<p>Barrio Gran America</p>
-						<p><i class="fa fa-phone"></i> +57 314 391 5083</p>
-						<p><i class="fa fa-envelope"></i> contacto@argosryt.com</p>
-						<p><i class="fa fa-envelope"></i> argosryt@gmail.com</p>
+						<h3>Address</h3>
+						<p>Daytona Beach, Florida</p>
+						<p></p>
+						<p><i class="fa fa-phone"></i> +1 386 307 7680</p>
+						<p><i class="fa fa-envelope"></i> info@arytsg.com</p>
+						
 					</div>
 					<div class="col-md-3">
-						<h3>Horarios de Atención</h3>
-						<p><i class="fa fa-clock-o"></i> <span class="day">Lunes a Viernes:</span><span>8 a.m. a 8 p.m.</span></p>
-						<p><i class="fa fa-clock-o"></i> <span class="day">Sabado:</span><span>9 a.m. a 2 p.m.</span></p>
-						<p><i class="fa fa-clock-o"></i> <span class="day">Domingo:</span><span>Cerrado</span></p>
+						<h3>Working Hours</h3>
+						<p><i class="fa fa-clock-o"></i> <span class="day">WeekDays:</span><span> 8 a.m. a 8 p.m.</span></p>
+						<p><i class="fa fa-clock-o"></i> <span class="day">Saturday:</span><span> 9 a.m. a 2 p.m.</span></p>
+						<p><i class="fa fa-clock-o"></i> <span class="day">Sunday:</span><span> Closed</span></p>
 					</div>
 					<div class="col-md-6">
 					<form action="logic.php" name="sentMessage" id="contactForm" role="form" method="post" enctype="multipart/form-data" novalidate="">
