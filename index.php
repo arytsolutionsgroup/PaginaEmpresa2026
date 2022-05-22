@@ -39,16 +39,16 @@
 							<a href="#page-top"></a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#about">Acerca de Nosotros</a>
+							<a class="page-scroll" href="#about">About Us</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#services">Nuestro Portafolio</a>
+							<a class="page-scroll" href="#services">Our Products and services</a>
 						</li>						
 						<li>
-							<a class="page-scroll" href="#partner&client">Aliados & Clientes</a>
+							<a class="page-scroll" href="#partner&client">Customers and Allies</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#contact">Contactenos</a>
+							<a class="page-scroll" href="#contact">Contact Us</a>
 						</li>
 					</ul>
 				</div>
@@ -61,9 +61,9 @@
 			<div class="container">
 				<div class="slider-container">
 					<div class="intro-text">
-						<div class="intro-lead-in">Argus Technology Solutions</div>
-						<div class="intro-heading">La tecnologia e innovacion al servicio de sus intereses</div>
-						<a href="#about" class="page-scroll btn btn-xl">Informese</a>
+						<div class="intro-lead-in">Argus Reliable Technology Solutions</div>
+						<div class="intro-heading">Technology and innovation at your service</div>
+						<a href="#about" class="page-scroll btn btn-xl">More Info</a>
 					</div>
 				</div>
 			</div>
@@ -73,8 +73,8 @@
 				<div class="row">
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
-						  <h2>Acerca de Nosotros</h2>
-						  <p align="center">Le ofrecemos lo ultimo de la tecnologia como su aliada, para que logre el cumplimiento de sus metas de manera simple y efectiva.</p>
+						  <h2>About Us</h2>
+						  <p align="center">We offer you the latest technology as your ally, so that you can achieve your goals in an effective way.</p>
 						</div>
 					</div>
 				</div>
@@ -82,7 +82,7 @@
 					<!-- about module -->
 					<div class="col-md-3 text-center">
 						<div class="mz-module-about"><em class="fa fa-cloud ot-circle"></em>
-						  <h3>Desarrollo Web</h3>
+						  <h3>WEB Development</h3>
 							<p>Usa para tu empresa, tu marca o tu organizacion lo ultimo del estado del arte en diseño WEB. Usa paginas completamente interactivas que lleven tu negocio u organizacion al mayor rendimiento posible.</p>
 						</div>
 					</div>
@@ -91,7 +91,7 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module-about">
 							<i class="fa fa-gears ot-circle"></i>
-							<h3>Desarrollo de software</h3>
+							<h3>Software Development</h3>
 							<p>Software personalizado para sus necesidades empresariales o institucionales</p>
 						</div>
 					</div>
@@ -100,7 +100,7 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module-about">
 							<i class="fa fa-cubes ot-circle"></i>
-							<h3>Redes de computadores e industriales</h3>
+							<h3>Computer and Industrial Networks</h3>
 							<p>Manten el rendimiento de tu empresa en niveles optimos, por medio de configuraciones de sistemas de redes de computo empresariales o redes ethernet industriales. Asegura tu información con los apropiados estandares de seguridad en redes.  </p>
 						</div>
 					</div>
@@ -362,14 +362,14 @@
 					<div class="owl-carousel">
 					<!--  Inicio Item Cliente & Aliados -->
 					
-						<div class="team-item">
-							<div class="team-image">
+						<div class="clients-allies-item">
+							<div class="clients-allies-image">
 								<img src="images/partner1.jpg" class="img-responsive" alt="clientorally">
 							</div>
-							<div class="team-text">
+							<div class="clients-allies-text">
 								<h3><a href="argosrisk\index.html">ARGOS RISK EVALUATION</a></h3>
-								<div class="team-location">Bogotá, Colombia</div>
-								<div class="team-position">– Evaluacion de Riesgos y Selección –</div>														
+								<div class="clients-allies-location">Bogotá, Colombia</div>
+								<div class="clients-allies-position">– Evaluacion de Riesgos y Selección –</div>														
 								<div align="left">									
 								<p>
 								<ul>
@@ -388,15 +388,15 @@
 					<!--  Fin Item Cliente & Aliados -->
 					<!--  Inicio Item Cliente & Aliadosv -->
 					
-						<div class="team-item">
-							<div class="team-image">
+						<div class="clients-allies-item">
+							<div class="clients-allies-image">
 								<img src="images/partner4.jpeg" class="img-responsive" alt="author">
 							</div>
-							<div class="team-text">
-								<h3><a href="IESG\index.html">IESG</a></h3>
-								<div class="team-location">Bogotá, Colombia</div>
-								<div class="team-position">– Ingenieria e Instalaciones –</div>
-								<div align="left">									
+							<div class="clients-allies-text">
+								<h3><a href="IESG\index.html">Integrated Contracting Solutions </a></h3>
+								<div class="clients-allies-location">Florida</div>
+								<div class="clients-allies-position">– General Contractor Services –</div>
+								<div class>									
 								<p>
 								<ul>
 								  <li>Instalaciones de electronica de RED y cableado estructurado.</li>
@@ -412,14 +412,14 @@
 					<!--  Fin Item Cliente & Aliados -->
 					<!--  Inicio Item Cliente & Aliados -->
 					
-						<div class="team-item">
-							<div class="team-image">
+						<div class="clients-allies-item">
+							<div class="clients-allies-image">
 								<img src="images/partner3.jpg" class="img-responsive" alt="author">
 							</div>
-							<div class="team-text">
+							<div class="clients-allies-text">
 								<h3><a href="SPI Market/index.html">SPI MARKET</a></h3>
-								<div class="team-location">Bogotá, Colombia</div>
-								<div class="team-position">– Venta de Elementos de Tecnologia  –</div>
+								<div class="clients-allies-location">Bogotá, Colombia</div>
+								<div class="clients-allies-position">– Venta de Elementos de Tecnologia  –</div>
 								<div align="left">
 									
 								<p>
@@ -441,14 +441,14 @@
 					<!--  Fin Item Cliente & Aliados -->					
 					<!-- Inicio Item Cliente & Aliados -->
 					
-						<div class="team-item">
-							<div class="team-image">
+						<div class="clients-allies-item">
+							<div class="clients-allies-image">
 								<img src="images/partner2.jpeg" class="img-responsive" alt="author">
 							</div>
-							<div class="team-text">
+							<div class="clients-allies-text">
 								<h3><a href="safedoors\index.html">SAFEDOORS</a></h3>
-								<div class="team-location">Bogotá, Colombia</div>
-								<div class="team-position">– Puertas, Talanqueras y Seguridad –</div>
+								<div class="clients-allies-location">Bogotá, Colombia</div>
+								<div class="clients-allies-position">– Puertas, Talanqueras y Seguridad –</div>
 								<div align="left">									
 								<p>
 								<ul>
@@ -469,14 +469,14 @@
 					
 					<!-- Inicio Item Cliente & Aliados -->
 					
-						<div class="team-item">
-							<div class="team-image">
+						<div class="clients-allies-item">
+							<div class="clients-allies-image">
 								<img src="images/partner5.jpg" class="img-responsive" alt="author">
 							</div>
-							<div class="team-text">
+							<div class="clients-allies-text">
 								<h3><a href="safedoors\index.html">COMPUTECH</a></h3>
-								<div class="team-location">Bogotá, Colombia</div>
-								<div class="team-position">– Equipos Personalizados de Computo –</div>
+								<div class="clients-allies-location">Bogotá, Colombia</div>
+								<div class="clients-allies-position">– Equipos Personalizados de Computo –</div>
 								<div align="left">
 									
 								<p>
@@ -506,8 +506,8 @@
 				<div class="row">
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
-							<h2>Contactenos</h2>
-							<p>Si tienes preguntas respecto a nuestros productos o servicios, no dudes en contactarnos!<br></p>
+							<h2>Contact Us</h2>
+							<p>If you have questions regarding our products or services, do not hesitate to contact us!<br></p>
 						</div>
 					</div>
 				</div>

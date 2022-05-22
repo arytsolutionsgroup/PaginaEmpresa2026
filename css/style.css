@@ -528,42 +528,47 @@ figure.effect-bubba:hover p {
 }
 
 /*--------------------
-4.6. Team
+4.6. Clients-allies
 --------------------*/
 
-.team-item {
+.clients-allies-item {
     text-align: center;
     background-color: #fff;
 }
 
-.team-text{
+.clients-allies-text{
         text-align: center;
     background-color: #fff;
 }
 
-.team-item h3 {
+.clients-allies-text{
+    text-align: center;
+background-color: #fff;
+}
+
+.clients-allies-item h3 {
     font-size: 16px;
     font-weight: 500;
 }
 
-.team-item .team-location {
+.clients-allies-item .clients-allies-location {
     color: #C5C5C5;
     font-size: 13px;
     margin-bottom: 20px;    
 }
 
-.team-item .team-location {
+.clients-allies-item .clients-allies-location {
     color: #C5C5C5;
     font-size: 12px;
     margin-bottom: 20px;    
 }
 
-.team-item .team-position {
+.clients-allies-item .clients-allies-position {
     color: #000;
     font-size: 12px;
 }
 
-.team-item p {
+.clients-allies-item p {
     font-size: 13px;
     font-weight: 300;
     color: #9C9C9C;
