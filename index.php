@@ -83,8 +83,8 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module-about"><em class="fa fa-cloud ot-circle"></em>
 						  <h3>WEB Development</h3>
-							<p>Usa para tu empresa, tu marca o tu organizacion lo ultimo del estado del arte en diseño WEB. Usa paginas completamente interactivas que lleven tu negocio u organizacion al mayor rendimiento posible.</p>
-						</div>
+						  <p>Use for your company, your brand or your organization the latest state of the art in WEB design. Use fully interactive pages that take your business or organization to the highest possible performance.</p>
+					</div>
 					</div>
 					<!-- end about module -->
 					<!-- about module -->
@@ -92,7 +92,7 @@
 						<div class="mz-module-about">
 							<i class="fa fa-gears ot-circle"></i>
 							<h3>Software Development</h3>
-							<p>Software personalizado para sus necesidades empresariales o institucionales</p>
+							<p>Customized software for your business or institutional needs</p>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -101,7 +101,7 @@
 						<div class="mz-module-about">
 							<i class="fa fa-cubes ot-circle"></i>
 							<h3>Computer and Industrial Networks</h3>
-							<p>Manten el rendimiento de tu empresa en niveles optimos, por medio de configuraciones de sistemas de redes de computo empresariales o redes ethernet industriales. Asegura tu información con los apropiados estandares de seguridad en redes.  </p>
+							<p>Maintain the performance of your company at optimum levels, through configurations of business computer network systems or industrial ethernet networks. Secure your information with the appropriate network security standards.</p>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -109,8 +109,8 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module-about">
 							<i class="fa fa-camera ot-circle"></i>
-							<h3>domotica y seguridad electronica</h3>
-							<p>Ahorra y controla de manera inteligente los recursos de tu empresa por medio del la red. Manten seguras tus instalaciones mediante novedosos sistemas de seguridad electronica </p>
+							<h3>Domotics and Electronics Security</h3>
+							<p>Save and intelligently control the resources of your company or home through the network. Keep your facilities or home safe through innovative electronic security systems.</p>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -122,7 +122,7 @@
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<div class="section-title">
-						<h2>Tecnologias y Productos con los que Trabajamos</h2>
+						<h2>Technologies and Products we work with</h2>
 						
 					</div>
 				</div>
@@ -213,8 +213,8 @@
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<div class="section-title">
-						<h2>Portafolio de Servicios Y Productos</h2>
-						<p>Ofrecemos una amplia gama de productos y servicios tecnológicos.</p>
+						<h2>Portfolio of Services and Products</h2>
+						<p>We offer a wide range of technology products and services.</p>
 					</div>
 				</div>
 			</div>
@@ -225,8 +225,8 @@
 						<figure class="effect-bubba">
 							<img src="images/port1-webdesign.jpeg" alt="img01" class="img-responsive" />
 							<figcaption>
-								<h2>DISEÑO WEB</h2>
-								<p>Conoce mas</p>
+								<h2>WEB DESIGN</h2>
+								<p>Learn more</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-1">Ver mas</a>
 							</figcaption>
 						</figure>
