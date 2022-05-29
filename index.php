@@ -239,8 +239,8 @@
 						<figure class="effect-bubba">
 							<img src="images/port2-softdevel.jpg" alt="Software Design" class="img-responsive" />
 							<figcaption>
-								<h2>DESAROLLO DE SOFTWARE</h2>
-								<p>Conoce mas</p>
+								<h2>SOFTWARE DEVELOPMENT</h2>
+								<p>Learn more</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-2">Ver mas</a>
 							</figcaption>
 						</figure>
@@ -253,8 +253,8 @@
 						<figure class="effect-bubba">
 							<img src="images/port3-ITCon.jpg" alt="IT Consulting" class="img-responsive" />
 							<figcaption>
-								<h2>Consultoria en IT</h2>
-								<p>Conoce mas</p>
+								<h2>IT CONSULTING</h2>
+								<p>Learn more</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-3">Ver mas</a>
 							</figcaption>
 						</figure>
@@ -269,8 +269,8 @@
 						<figure class="effect-bubba">
 							<img src="images/port4-compnetworks.jpeg" alt="img02" class="img-responsive" />
 							<figcaption>
-								<h2>REDES DE COMPUTACIÓN</h2>
-								<p>Conoce mas</p>
+								<h2>ELECTRONICS AND <br> COMPUTER NETWORKS </h2>								
+								<p>Learn more</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-4">Ver mas</a>
 							</figcaption>
 						</figure>
@@ -283,8 +283,8 @@
 						<figure class="effect-bubba">
 							<img src="images/port6-domotics-iot.jpg" alt="Informatics Security" class="img-responsive" />
 							<figcaption>
-								<h2>INTERNET DE LAS COSAS</h2>
-								<p>Conoce mas</p>
+								<h2>SMART ELECTRONICS</h2>
+								<p>Learn more</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-6">Ver mas</a>
 							</figcaption>
 						</figure>
@@ -297,8 +297,8 @@
 						<figure class="effect-bubba">
 							<img src="images/port5-electroseg.jpeg" alt="img02" class="img-responsive" />
 							<figcaption>
-								<h2>SEGURIDAD ELECTRONICA</h2>
-								<p>Conoce mas</p>
+								<h2>ELECTRONICS SECURITY</h2>
+								<p>Learn more</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-5">Ver mas</a>
 							</figcaption>
 						</figure>
@@ -353,8 +353,8 @@
 				<div class="row">
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
-							<h2>NUESTROS CLIENTES &amp; ALIADOS</h2>
-							<p style="color: black; font-size: 20px"> Nuestros Clientes y Aliados ofrecen una amplia gama de productos en los cuales pueda estar interesado</p>
+							<h2>CUSTOMERS &amp; SUBSIDIARIES</h2>
+							<p style="color: black; font-size: 20px"> Our Clients and Allies offer a wide range of products in which you may be interested</p>
 						</div>
 					</div>
 				</div>
@@ -367,18 +367,19 @@
 								<img src="images/partner1.jpg" class="img-responsive" alt="clientorally">
 							</div>
 							<div class="clients-allies-text">
-								<h3><a href="argosrisk\index.html">ARGOS RISK EVALUATION</a></h3>
-								<div class="clients-allies-location">Bogotá, Colombia</div>
-								<div class="clients-allies-position">– Evaluacion de Riesgos y Selección –</div>														
+								<h3><a href="argosrisk\index.html">ARGOS RISK </br>EVALUATION</a></h3>
+								<div class="clients-allies-location">ARE</div>
+								<div class="clients-allies-position">– Risk Assessment and Staff Selection –</div>														
 								<div align="left">									
 								<p>
 								<ul>
-								<li>Examenes de Poligrafía, multiproposito.</li>
-								<li>Examenes Psicotecnicos para procesos de selección.</li>
-								<li>Examenes de conocimientos <br/> para procesos de selección especializados.</li>
-									</br>
-									</br>
-									</br>
+								<li>Reliability tests.</li>
+								<li>Psychotechnical exams.</li>
+								<li>Knowledge exams </br> for specialized selection processes.</li>
+								</br>
+								</br>
+								</br>									
+								</br>
 					          	</ul>
 								</p>								
 								</div>
@@ -393,16 +394,21 @@
 								<img src="images/partner4.jpeg" class="img-responsive" alt="author">
 							</div>
 							<div class="clients-allies-text">
-								<h3><a href="IESG\index.html">Integrated Contracting Solutions </a></h3>
+								<h3><a href="IESG\index.html">INTEGRATED <BR>CONTRACTING SOLUTIONS</a></h3>
 								<div class="clients-allies-location">Florida</div>
 								<div class="clients-allies-position">– General Contractor Services –</div>
-								<div class>									
+								<div class align="left">									
 								<p>
 								<ul>
-								  <li>Instalaciones de electronica de RED y cableado estructurado.</li>
-								  <li>Instalaciones de sistemas de seguridad electronica.</li>
-								  <li>Instalacion de PLC´s para procesos industriales.</li>
-								  <li>Automatizacion y Control de industria, empresa y hogares.</li>
+								  <li>Electrical Wiring.</li>								  
+								  <li>Air Conditioning</li>
+								  <li>Plumbing</li>
+								  <li>General Maintenance</li>
+								  </br>
+								  </br>
+								  </br>
+								  </br>
+								  </br>
 					          	</ul>
 								</p>								
 								</div>
