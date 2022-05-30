@@ -452,17 +452,17 @@
 								<img src="images/partner2.jpeg" class="img-responsive" alt="author">
 							</div>
 							<div class="clients-allies-text">
-								<h3><a href="safedoors\index.html">SAFEDOORS</a></h3>
+								<h3><a href="safedoors\index.html">SAFEDOORS </a></h3>
+								</br>
 								<div class="clients-allies-location">Bogotá, Colombia</div>
-								<div class="clients-allies-position">– Puertas, Talanqueras y Seguridad –</div>
+								<div class="clients-allies-position">– Automatic doors, Car Barriers and Security doors –</div>
 								<div align="left">									
 								<p>
 								<ul>
 								  <li>Puertas, Ventanas y Chapas de Seguridad.</li>
 								  <li>Puertas, Ventanas y Cortinas Automatizadas.</li>
 								  <li>Sistemas Electronicos Autmotrices (Alarmas, Sonido y Comunicaciones).</li>
-								</br>
-								</br>
+								</br>							
 								</br>
 					          	</ul>
 								</p>								
