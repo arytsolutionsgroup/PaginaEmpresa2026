@@ -395,7 +395,7 @@
 							</div>
 							<div class="clients-allies-text">
 								<h3><a href="IESG\index.html">INTEGRATED <BR>CONTRACTING SOLUTIONS</a></h3>
-								<div class="clients-allies-location">Florida</div>
+								<div class="clients-allies-location">INCO</div>
 								<div class="clients-allies-position">– General Contractor Services –</div>
 								<div class align="left">									
 								<p>
@@ -416,6 +416,36 @@
 						</div>
 					
 					<!--  Fin Item Cliente & Aliados -->
+					<!--  Inicio Item Cliente & Aliadosv -->
+					
+					<div class="clients-allies-item">
+							<div class="clients-allies-image">
+								<img src="images/partner6.jpg" class="img-responsive" alt="author">
+							</div>
+							<div class="clients-allies-text">
+								<h3><a href="IESG\index.html">ARGUS GAME STUDIOS</a></h3>
+								</br>
+								<div class="clients-allies-location">AGS</div>
+								<div class="clients-allies-position">– Game Development –</div>
+								<div class align="left">									
+								<p>
+								<ul>
+								  <li>Platformers</li>								  
+								  <li>Novels</li>
+								  <li>Survival</li>
+								  <li>Art and Music</li>
+								  </br>
+								  </br>
+								  </br>
+								  </br>
+								  </br>
+					          	</ul>
+								</p>								
+								</div>
+							</div>
+						</div>
+					
+					<!--  Fin Item Cliente & Aliados -->					
 					<!--  Inicio Item Cliente & Aliados -->
 					
 						<div class="clients-allies-item">
@@ -423,19 +453,18 @@
 								<img src="images/partner3.jpg" class="img-responsive" alt="author">
 							</div>
 							<div class="clients-allies-text">
-								<h3><a href="SPI Market/index.html">SPI MARKET</a></h3>
-								<div class="clients-allies-location">Bogotá, Colombia</div>
-								<div class="clients-allies-position">– Venta de Elementos de Tecnologia  –</div>
+								<h3><a href="SPI Market/index.html">SPI TECH AND SUPPLIES MARKET</a></h3>
+								<div class="clients-allies-location">STSM</div>
+								<div class="clients-allies-position">– Technology and Supplies –</div>
 								<div align="left">
 									
 								<p>
 								<ul>
-								  <li>Elementos de Computación.</li>
-								  <li>Elementos de Redes.</li>
-								  <li>Elementos de Seguridad Electronica.</li>
+								  <li>Computer and parts.</li>
+								  <li>Networks Electronics.</li>
+								  <li>Domotics and Electronics Security</li>
 								  <li>Elementos para Domotica.</li>
-								  <li>Elementos de Electronica para Proyectos.</li>
-									</br>
+								  <li>Elementos de Electronica para Proyectos.</li>									
 									</br>
 									</br>
 					          	</ul>
@@ -454,16 +483,15 @@
 							<div class="clients-allies-text">
 								<h3><a href="safedoors\index.html">SAFEDOORS </a></h3>
 								</br>
-								<div class="clients-allies-location">Bogotá, Colombia</div>
-								<div class="clients-allies-position">– Automatic doors, Car Barriers and Security doors –</div>
+								<div class="clients-allies-location">SACO</div>
+								<div class="clients-allies-position">– Doors, Barriers and Security –</div>
 								<div align="left">									
 								<p>
 								<ul>
-								  <li>Puertas, Ventanas y Chapas de Seguridad.</li>
-								  <li>Puertas, Ventanas y Cortinas Automatizadas.</li>
-								  <li>Sistemas Electronicos Autmotrices (Alarmas, Sonido y Comunicaciones).</li>
-								</br>							
-								</br>
+								  <li>Doors, Windows and Security Locks.</li>
+								  <li>Automated Doors, </br> Windows and Curtains.</li>
+								  <li>Automotive Electronic Systems </br>(Alarms, Sound and Communications).</li>
+								</br>  
 					          	</ul>
 								</p>								
 								</div>
@@ -477,21 +505,22 @@
 					
 						<div class="clients-allies-item">
 							<div class="clients-allies-image">
-								<img src="images/partner5.jpg" class="img-responsive" alt="author">
+								<img src="images/partner7.jpg" class="img-responsive" alt="author">
 							</div>
 							<div class="clients-allies-text">
-								<h3><a href="safedoors\index.html">COMPUTECH</a></h3>
-								<div class="clients-allies-location">Bogotá, Colombia</div>
-								<div class="clients-allies-position">– Equipos Personalizados de Computo –</div>
-								<div align="left">
-									
+								<h3><a href="safedoors\index.html">RECO</a></h3>
+								</br>
+								<div class="clients-allies-location">RECO</div>
+								<div class="clients-allies-position">– Drywall, Framing and Painting –</div>
+								<div align="left">									
 								<p>
 								<ul>
-								  <li>Equipos gaming personalizados.</li>
-								  <li>Venta de portatiles Gamer.</li>
-								  <li>Venta de partes de alto rendimiento para gamers</li>
+								  <li>Drywall installation</li>
+								  <li>Framing installation</li>
+								  <li>General Painting</li>
+								  <li>Drywall Repairing</li>
 								</br>
-								</br>
+								</br>								
 								</br>
 								</br>
 								</br>
