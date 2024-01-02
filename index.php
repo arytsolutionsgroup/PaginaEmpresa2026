@@ -119,7 +119,7 @@
 			</div>
 			<!-- /.container -->
 		</section>
-		<section class="ligth">
+		<!--section class="ligth">
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<div class="section-title">
@@ -169,11 +169,11 @@
 							</div>
 							<div class="item">
 								<div class="partner-logo"><img src="images/icon-XXX.png" alt="XXX"></div>
-							</div-->
+							</div>
 						</div>
 					</div>
 			</div>
-			</section>
+			</section-->
 			
 			<!--##########################seccion contador - counter section#######################		
 			<section class="overlay-dark bg-img1 dark-bg short-section">
@@ -209,7 +209,7 @@
 ########################################## Fin seccion -End Section #################-->
 
 
-		<section id="services" class="light-bg">
+		<section id="services" class="light">
 			<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center">
