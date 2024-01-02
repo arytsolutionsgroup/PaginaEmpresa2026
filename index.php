@@ -221,12 +221,12 @@
 			</div>
 			<div class="row">
 				<!-- start portfolio item -->
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
 							<img src="images/port1-webdesign.jpeg" alt="img01" class="img-responsive" />
 							<figcaption>
-								<h2>WEB DESIGN</h2>
+								<h2>HOME AUTOMATION</h2>
 								<p>Learn more</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-1">Ver mas</a>
 							</figcaption>
@@ -234,7 +234,7 @@
 					</div>
 				</div>
 				<!-- end portfolio item -->
-				<!-- start portfolio item -->
+				<!-- start portfolio item >
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
@@ -247,16 +247,16 @@
 						</figure>
 					</div>
 				</div>
-				<!-- end portfolio item -->
+				< end portfolio item -->
 				<!-- start portfolio item -->
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
 							<img src="images/port3-ITCon.jpg" alt="IT Consulting" class="img-responsive" />
 							<figcaption>
 								<h2>IT CONSULTING</h2>
 								<p>Learn more</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-3">Ver mas</a>
+								<a href="#" data-toggle="modal" data-target="#Modal-2">Ver mas</a>
 							</figcaption>
 						</figure>
 					</div>
@@ -264,7 +264,7 @@
 				<!-- end portfolio item -->
 			</div>
 			<div class="row">
-				<!-- start portfolio item -->
+				<!-- start portfolio item >
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
@@ -277,9 +277,9 @@
 						</figure>
 					</div>
 				</div>
-				<!-- end portfolio item -->
+				< end portfolio item -->
 				<!-- start portfolio item -->
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
 							<img src="images/port6-domotics-iot.jpg" alt="Informatics Security" class="img-responsive" />
@@ -293,7 +293,7 @@
 				</div>
 				<!-- end portfolio item -->
 				<!-- start portfolio item -->
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
 							<img src="images/port5-electroseg.jpeg" alt="img02" class="img-responsive" />
