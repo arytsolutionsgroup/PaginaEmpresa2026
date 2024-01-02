@@ -81,7 +81,8 @@
 				<div class="row">
 					<!-- about module -->
 					<div class="col-md-3 text-center">
-						<div class="mz-module-about"><em class="fa fa-cloud ot-circle"></em>
+						<div class="mz-module-about">
+							<i class="fa fa-plug ot-circle"></i>
 						  <h3>Residential and Commercial Electrical Work</h3>
 						  <p>We can Design, Build or Install any type of electrical system required in your home or commercial building. We are committed to giving you the most reliable electrical system for your needs. We are fully licensed and Insured, assuring you that your electrical project will be installed to our Strict Quality and NEC Code Standards.</p>
 					</div>
