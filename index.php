@@ -567,13 +567,13 @@
 							<div class="row">
 								<div class="col-md-6">
 									<div class="form-group">
-										<input type="text" class="form-control" name="subject" placeholder="Su nombre *" id="subject" required="" data-validation-required-message="Please enter your name.">
+										<input type="text" class="form-control" name="subject" placeholder="Your name *" id="subject" required="" data-validation-required-message="Please enter your name.">
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">
-										<input type="email" id="email" name="Email-name" class="form-control" placeholder="Su Email *" required="" data-validation-required-message="Please enter your email address.">
+										<input type="email" id="email" name="Email-name" class="form-control" placeholder="Your Email *" required="" data-validation-required-message="Please enter your email address.">
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
@@ -581,7 +581,7 @@
 							<div class="row">
 								<div class="col-md-12">
 									<div class="form-group">
-										<textarea class="form-control" type="text" name="message" placeholder="Su mensaje *" id="message" required="" data-validation-required-message="Please enter a message."></textarea>
+										<textarea class="form-control" type="text" name="message" placeholder="Your message *" id="message" required="" data-validation-required-message="Please enter a message."></textarea>
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
