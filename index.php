@@ -87,16 +87,7 @@
 						  <p>We can Design, Build or Install electrical systems that you require in your home or in a commercial building.</p>
 					</div>
 					</div>
-					<!-- end about module -->
-					<!-- about module -->
-					<div class="col-md-3 text-center">
-						<div class="mz-module-about">
-							<i class="fa fa-gears ot-circle"></i>
-							<h3>Software Development</h3>
-							<p>Customized software for your business or institutional needs</p>
-						</div>
-					</div>
-					<!-- end about module -->
+					<!-- end about module -->					
 					<!-- about module -->
 					<div class="col-md-3 text-center">
 						<div class="mz-module-about">
@@ -112,6 +103,15 @@
 							<i class="fa fa-camera ot-circle"></i>
 							<h3>Domotics and Electronics Security</h3>
 							<p>Save and intelligently control the resources of your company or home through the network. Keep your facilities or home safe through innovative electronic security systems.</p>
+						</div>
+					</div>
+					<!-- end about module -->
+					<!-- about module -->
+					<div class="col-md-3 text-center">
+						<div class="mz-module-about">
+							<i class="fa fa-gears ot-circle"></i>
+							<h3>Software Development</h3>
+							<p>Customized software for your business or institutional needs</p>
 						</div>
 					</div>
 					<!-- end about module -->
