@@ -219,14 +219,15 @@
 					</div>
 				</div>
 			</div>
+			
 			<div class="row">
-				<!-- start portfolio item -->
+				<!--start portfolio item -->
 				<div class="col-md-6">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
 							<img src="images/port1-webdesign.jpeg" alt="img01" class="img-responsive" />
 							<figcaption>
-								<h2>HOME AUTOMATION</h2>
+								<h2>TECHNOLOGY AND AUTOMATION</h2>
 								<p>Learn more</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-1">Ver mas</a>
 							</figcaption>
