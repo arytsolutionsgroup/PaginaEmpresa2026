@@ -614,12 +614,12 @@
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-1">Diseño WEB</h4>
+						<h4 class="modal-title" id="Modal-label-1">Electrical Systems Design</h4>
 					</div>
 					<div class="modal-body">
 						<img src="images/port1-webdesign.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Desarrollo Front End</span></div>
-						<p>Diseño de paginas WEB a medida:</p>
+						<p>Electrical:</p>
 						<c>Esquema multiplataforma para que su pagina llegue a mas personas.</c>
 						<c>Paginas completamente interactivas, seguras, rapidas y eficaces.</c>
 						<c>Conectividad con bases de datos SQL o No SQL.</c>						
