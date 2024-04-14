@@ -620,9 +620,9 @@
 						<img src="images/port1-webdesign.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Desarrollo Front End</span></div>
 						<p>Electrical:</p>
-						<c>Residential.</c>
-						<c>Commercial.</c>
-						<c>Service.</c>						
+						<c>Residential.</c><br>
+						<c>Commercial.</c><br>
+						<c>Service.</c><br>					
 						<!--button type="submit" name="sendmail" class="btn">Send Message</button-->
 						
 					</div>
