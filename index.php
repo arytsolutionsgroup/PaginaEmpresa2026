@@ -253,7 +253,7 @@
 				<div class="col-md-6">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
-							<img src="images/port3-ITCon.jpg" alt="IT Consulting" class="img-responsive" />
+							<img src="images/port4-compnetworks.jpeg" alt="IT Consulting" class="img-responsive" />
 							<figcaption>
 								<h2>Technology and automation</h2>
 								<p>Learn more</p>
