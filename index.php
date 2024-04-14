@@ -617,9 +617,9 @@
 						<h4 class="modal-title" id="Modal-label-1">Electrical Systems Design</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/port1-webdesign.gif" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Residential</span><span>Commercial</span></div>
-						<div class="modal-works"></div>
+						<img src="images/port8-electricaldes.webp" alt="img01" class="img-responsive" />
+						<div class="modal-works"><span>Residential</span><span>Commercial</span><span>Service</span></div>
+
 						<p>Electrical:</p>
 						<c>Panels.</c><br>
 						<c>Ligthing.</c><br>
@@ -631,7 +631,7 @@
 						<c>Commercial.</c><br>
 						<c>Service.</c><br>	
 						
-						<div class="modal-works"><span>Service</span></div>
+					
 						<p>Electrical:</p>
 						<c>Residential.</c><br>
 						<c>Commercial.</c><br>
