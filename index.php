@@ -618,8 +618,8 @@
 					</div>
 					<div class="modal-body">
 						<img src="images/port1-webdesign.gif" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Residential</span></div>
-						<div class="modal-works"><span>Commercial</span></div>
+						<div class="modal-works"><span>Residential</span><span>Commercial</span></div>
+						<div class="modal-works"></div>
 						<p>Electrical:</p>
 						<c>Panels.</c><br>
 						<c>Ligthing.</c><br>
