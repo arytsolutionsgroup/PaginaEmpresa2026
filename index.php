@@ -227,9 +227,9 @@
 						<figure class="effect-bubba">
 							<img src="images/port1-webdesign.jpeg" alt="img01" class="img-responsive" />
 							<figcaption>
-								<h2>TECHNOLOGY AND AUTOMATION</h2>
+								<h2>Electrical</h2>
 								<p>Learn more</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-1">Ver mas</a>
+								<a href="#" data-toggle="modal" data-target="#Modal-1">See more</a>
 							</figcaption>
 						</figure>
 					</div>
@@ -255,9 +255,9 @@
 						<figure class="effect-bubba">
 							<img src="images/port3-ITCon.jpg" alt="IT Consulting" class="img-responsive" />
 							<figcaption>
-								<h2>IT CONSULTING</h2>
+								<h2>Technology and automation</h2>
 								<p>Learn more</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-2">Ver mas</a>
+								<a href="#" data-toggle="modal" data-target="#Modal-2">See more</a>
 							</figcaption>
 						</figure>
 					</div>
@@ -285,9 +285,9 @@
 						<figure class="effect-bubba">
 							<img src="images/port6-domotics-iot.jpg" alt="Informatics Security" class="img-responsive" />
 							<figcaption>
-								<h2>SMART ELECTRONICS</h2>
+								<h2>Computer networks</h2>
 								<p>Learn more</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-6">Ver mas</a>
+								<a href="#" data-toggle="modal" data-target="#Modal-6">See more</a>
 							</figcaption>
 						</figure>
 					</div>
@@ -299,9 +299,9 @@
 						<figure class="effect-bubba">
 							<img src="images/port5-electroseg.jpeg" alt="img02" class="img-responsive" />
 							<figcaption>
-								<h2>ELECTRONICS SECURITY</h2>
+								<h2>Software development</h2>
 								<p>Learn more</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-5">Ver mas</a>
+								<a href="#" data-toggle="modal" data-target="#Modal-5">See more</a>
 							</figcaption>
 						</figure>
 					</div>
