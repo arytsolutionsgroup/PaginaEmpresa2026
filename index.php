@@ -285,7 +285,7 @@
 						<figure class="effect-bubba">
 							<img src="images/port6-domotics-iot.jpg" alt="Informatics Security" class="img-responsive" />
 							<figcaption>
-								<h2>Computer networks</h2>
+								<h2>IT and Computer networks</h2>
 								<p>Learn more</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-6">See more</a>
 							</figcaption>
@@ -620,9 +620,9 @@
 						<img src="images/port1-webdesign.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Desarrollo Front End</span></div>
 						<p>Electrical:</p>
-						<c>Esquema multiplataforma para que su pagina llegue a mas personas.</c>
-						<c>Paginas completamente interactivas, seguras, rapidas y eficaces.</c>
-						<c>Conectividad con bases de datos SQL o No SQL.</c>						
+						<c>Residential.</c>
+						<c>Commercial.</c>
+						<c>Service.</c>						
 						<!--button type="submit" name="sendmail" class="btn">Send Message</button-->
 						
 					</div>
