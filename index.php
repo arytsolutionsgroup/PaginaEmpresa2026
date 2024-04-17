@@ -618,22 +618,22 @@
 					</div>
 					<div class="modal-body">
 						<img src="images/port8-electricaldes.webp" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Residential</span><span>Commercial</span><span>Service</span></div>
-
-						<p>Residential:</p>
-						<c><p>We do the electrical design for your house compliant with the lastest NEC code regulations.</p></c><br>
-						<c><p>Smart Ligthing, outlets and panels, so you can always check on your electrical system.</p></c><br>
-						<br>
+						<div class="modal-works"><center><span>Residential</span><span>Commercial</span><span>Service</span></center></div>
+						<hr/>
+						<div class="modal-works"><center><span>Residential</span></center></div>
+						<p>We do the electrical design for your house compliant with the lastest NEC code regulations.</p>
+						<p>Smart Ligthing, outlets and panels, so you can always check on your electrical system.</p>
 						
-						<p>Commercial:</p>
-						<c>We do the electrical design for your business compliant with the lastest NEC code regulations.</c><br>
-						<c>Automated Ligthing, electrical systems automated controls for business.</c><br>
-						<br>	
 						
-						<p>Service:</p>
-						<c>Electrical Manteinance.</c><br>
-						<c>Remodels for old electrical systems.</c><br>
-						<c>Add new ligths, switches, fans or outlets to your home or business for interior or for exterior.</c><br>							
+						<div class="modal-works"><center><span>Commercial</span></center></div>
+						<p>We do the electrical design for your business compliant with the lastest NEC code regulations.</p>
+						<p>Automated Ligthing, electrical systems automated controls for business.</p>
+						
+						
+						<div class="modal-works"><center><span>Service</span></center></div>
+						<p>Electrical Manteinance.</p>
+						<p>Remodels for old electrical systems.</p>
+						<p>Add new ligths, switches, fans or outlets to your home or business for interior or for exterior.</p>						
 						<!--button type="submit" name="sendmail" class="btn">Send Message</button-->
 						
 					</div>
