@@ -621,7 +621,7 @@
 						<div class="modal-works"><span>Residential</span><span>Commercial</span><span>Service</span></div>
 
 						<p>Residential:</p>
-						<c>We do the electrical design for your house compliant with the lastest NEC code regulations.</c><br>
+						<p>We do the electrical design for your house compliant with the lastest NEC code regulations.</p><br>
 						<c>Smart Ligthing, outlets and panels, so you can always check on your electrical system.</c><br>
 						<br>
 						
