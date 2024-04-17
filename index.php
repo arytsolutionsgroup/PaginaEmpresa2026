@@ -620,22 +620,20 @@
 						<img src="images/port8-electricaldes.webp" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Residential</span><span>Commercial</span><span>Service</span></div>
 
-						<p>Electrical:</p>
-						<c>Panels.</c><br>
-						<c>Ligthing.</c><br>
-						<c>Wiring.</c><br>		
+						<p>Residential:</p>
+						<c>We do the electrical design for your house compliant with the lastest NEC code regulations.</c><br>
+						<c>Smart Ligthing, outlets and panels, so you can always check on your electrical system.</c><br>
+						<br>
 						
+						<p>Commercial:</p>
+						<c>We do the electrical design for your business compliant with the lastest NEC code regulations.</c><br>
+						<c>Automated Ligthing, electrical systems automated controls for business.</c><br>
+						<br>	
 						
-						<p>Electrical:</p>
-						<c>Residential.</c><br>
-						<c>Commercial.</c><br>
-						<c>Service.</c><br>	
-						
-					
-						<p>Electrical:</p>
-						<c>Residential.</c><br>
-						<c>Commercial.</c><br>
-						<c>Service.</c><br>							
+						<p>Service:</p>
+						<c>Electrical Manteinance.</c><br>
+						<c>Remodels for old electrical systems.</c><br>
+						<c>Add new ligths, switches, fans or outlets to your home or business for interior or for exterior.</c><br>							
 						<!--button type="submit" name="sendmail" class="btn">Send Message</button-->
 						
 					</div>
