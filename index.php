@@ -653,15 +653,26 @@
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-2">DESARROLLO DE SOFTWARE</h4>
+						<h4 class="modal-title" id="Modal-label-2">TECHNOLOGY AND AUTOMATION</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/port2-mobile.gif" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Desarrollo Back End</span></div>
-						<p>Desarrollo de:</p>
-						<c>Aplicaciones de Escritorio.</c><br>
-						<c>Aplicaciones Moviles.</c><br>
-						<c>Aplicaciones Hibridas.</c><br>
+						<img src="images/port8-electricaldes.webp" alt="img01" class="img-responsive" />
+						<div class="modal-works"><span>Residential</span><span>Commercial</span><span>Service</span></div>
+
+						<p>Residential:</p>
+						<c>Burglary Alarms.</c><br>
+						<c>Security Cameras.</c><br>
+						<c>Wiring.</c><br>		
+						
+						
+						<p>Commercial:</p>
+						<c>Security Alarms.</c><br>
+						<c>Security Cameras.</c><br>
+						<c>Fire Alarm Systems.</c><br>	
+						<c>Wiring.</c><br>
+						
+						<!--button type="submit" name="sendmail" class="btn">Send Message</button-->
+						
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
