@@ -654,21 +654,25 @@
 						<h4 class="modal-title" id="Modal-label-2">TECHNOLOGY AND AUTOMATION</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/port8-electricaldes.webp" alt="img01" class="img-responsive" />
+						<img src="images/port10-iot.gif" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Residential</span><span>Commercial</span><span>Service</span></div>
 
-						<p>Residential:</p>
+						<div class="modal-works"><center><span>Residential</span></center></div>
 						<c>Burglary Alarms.</c><br>
 						<c>Security Cameras.</c><br>
 						<c>Wiring.</c><br>		
 						
 						
-						<p>Commercial:</p>
+						<div class="modal-works"><center><span>Commercial</span></center></div>
 						<c>Security Alarms.</c><br>
 						<c>Security Cameras.</c><br>
 						<c>Fire Alarm Systems.</c><br>	
 						<c>Wiring.</c><br>
-						
+
+						<div class="modal-works"><center><span>Service</span></center></div>
+						<c>Re-Wirings.</c><br>
+						<c>Wired to Wireless.</c><br>
+						<c>Maintenance.</c><br>							
 						<!--button type="submit" name="sendmail" class="btn">Send Message</button-->
 						
 					</div>
