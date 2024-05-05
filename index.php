@@ -660,14 +660,14 @@
 						<div class="modal-works"><center><span>Residential</span></center></div>
 						<c>Burglary Alarms.</c><br>
 						<c>Security Cameras.</c><br>
-						<c>Wiring.</c><br>		
+						<c>Wiring and IoT Devices Installation.</c><br>		
 						
 						
 						<div class="modal-works"><center><span>Commercial</span></center></div>
 						<c>Security Alarms.</c><br>
 						<c>Security Cameras.</c><br>
 						<c>Fire Alarm Systems.</c><br>	
-						<c>Wiring.</c><br>
+						<c>Wiring and IoT Devices Installation.</c><br>
 
 						<div class="modal-works"><center><span>Service</span></center></div>
 						<c>Re-Wirings.</c><br>
