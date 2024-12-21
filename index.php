@@ -350,7 +350,7 @@
 				</div>
 			</div>
 		</section-->
-		<section id="partner&client" style="background-color: lightgray">
+		<!-- <section id="partner&client" style="background-color: lightgray">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
@@ -361,10 +361,10 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="owl-carousel">
+					<div class="owl-carousel"> -->
 					<!--  Inicio Item Cliente & Aliados -->
 					
-						<div class="clients-allies-item">
+						<!-- <div class="clients-allies-item">
 							<div class="clients-allies-image">
 								<img src="images/partner1.jpg" class="img-responsive" alt="clientorally">
 							</div>
@@ -386,12 +386,12 @@
 								</p>								
 								</div>
 						    </div>
-						</div>			
+						</div>			 -->
 					
 					<!--  Fin Item Cliente & Aliados -->
 					<!--  Inicio Item Cliente & Aliadosv -->
 					
-						<div class="clients-allies-item">
+						<!-- <div class="clients-allies-item">
 							<div class="clients-allies-image">
 								<img src="images/partner4.jpeg" class="img-responsive" alt="author">
 							</div>
@@ -415,12 +415,12 @@
 								</p>								
 								</div>
 							</div>
-						</div>
+						</div> -->
 					
 					<!--  Fin Item Cliente & Aliados -->
 					<!--  Inicio Item Cliente & Aliadosv -->
 					
-					<div class="clients-allies-item">
+					<!-- <div class="clients-allies-item">
 							<div class="clients-allies-image">
 								<img src="images/partner6.jpg" class="img-responsive" alt="author">
 							</div>
@@ -445,12 +445,12 @@
 								</p>								
 								</div>
 							</div>
-						</div>
+						</div> -->
 					
 					<!--  Fin Item Cliente & Aliados -->					
 					<!--  Inicio Item Cliente & Aliados -->
 					
-						<div class="clients-allies-item">
+						<!-- <div class="clients-allies-item">
 							<div class="clients-allies-image">
 								<img src="images/partner3.jpg" class="img-responsive" alt="author">
 							</div>
@@ -473,12 +473,12 @@
 								</p>								
 								</div>
 							</div>
-						</div>
+						</div> -->
 					
 					<!--  Fin Item Cliente & Aliados -->					
 					<!-- Inicio Item Cliente & Aliados -->
 					
-						<div class="clients-allies-item">
+						<!-- <div class="clients-allies-item">
 							<div class="clients-allies-image">
 								<img src="images/partner2.jpeg" class="img-responsive" alt="author">
 							</div>
@@ -498,14 +498,14 @@
 								</p>								
 								</div>
 							</div>
-						</div>
+						</div> -->
 					
 					<!-- Fin Item Cliente & Aliados -->
 
 					
 					<!-- Inicio Item Cliente & Aliados -->
 					
-						<div class="clients-allies-item">
+						<!-- <div class="clients-allies-item">
 							<div class="clients-allies-image">
 								<img src="images/partner7.jpg" class="img-responsive" alt="author">
 							</div>
@@ -530,7 +530,7 @@
 								</p>								
 								</div>
 							</div>
-						</div>
+						</div> -->
 					
 					<!-- Fin Item Cliente & Aliados -->
 
